@@ -12,14 +12,8 @@ def read_dataset():
     """
         Save pokemon data from dataset into a dictionary.
     """
-    # Load your dataset
     df = pd.read_csv(POKEMON_TRIMMED)
-
-    # Ensure 'rarity' is numeric
     df['rarity'] = pd.to_numeric(df['rarity'], errors='coerce')
-
-    # Normalize the weights (optional but good practice)
-    df['rarity_weight'] = df['rarity'] / df['rarity'].sum()
 
     return df
 
@@ -41,13 +35,17 @@ def add_to_deck(deck, new_pokemon):
 
 
 def pokemon_picker(df):
-    pulled = df.sample(n=1, weights='rarity_weight')
+    """
+        Use weighted probability based on rarity to pick pokemon
+    """
+    pulled = df.sample(n=1, weights='rarity')
     number = pulled["pokedex_number"].values[0]
     name = pulled['name'].values[0]
     type1 = pulled['type1'].values[0]
-    print(number)
-    print(name)
-    print(type1)
+    # print(number)
+    # print(name)
+    # print(type1)
+    print(pulled)
 
     response = requests.get(f"{POKEMON_API}/{number}")
     # Check if request was successful
