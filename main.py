@@ -18,22 +18,6 @@ def read_dataset():
     return df
 
 
-def open_deck():
-    """
-        Open a previous deck or start an empty one.
-    """
-    if os.path.exists(DECK):
-        df = pd.read_csv(DECK)
-        deck = df.tolist(orient='records')
-    else:
-        deck = []
-    return deck
-
-
-def add_to_deck(deck, new_pokemon):
-    deck.append(new_pokemon)
-
-
 def pokemon_picker(df):
     """
         Use weighted probability based on rarity to pick pokemon
@@ -42,9 +26,6 @@ def pokemon_picker(df):
     number = pulled["pokedex_number"].values[0]
     name = pulled['name'].values[0]
     type1 = pulled['type1'].values[0]
-    # print(number)
-    # print(name)
-    # print(type1)
     print(pulled)
 
     response = requests.get(f"{POKEMON_API}/{number}")
