@@ -11,8 +11,8 @@
   - [ ] Add functionality to add to deck each time (up to 40)
 
 ## 🎲 Random Selection
-- [ ] Select random Pokémon from CSV  
-  - [ ] Use weighted probabilities
+- [x] Select random Pokémon from CSV  
+  - [x] Use weighted probabilities
 
 ## 🌐 API Integration
 - [ ] Use API call to pull Pokémon stats  
