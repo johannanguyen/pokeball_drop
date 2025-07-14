@@ -1,6 +1,7 @@
 ## 📥 Data Handling
-- [ ] Import Kaggle dataset  
-  - [ ] [https://www.kaggle.com/datasets/rounakbanik/pokemon](https://www.kaggle.com/datasets/rounakbanik/pokemon)
+- [x] Import Kaggle dataset  
+  - [x] [https://www.kaggle.com/datasets/rounakbanik/pokemon](https://www.kaggle.com/datasets/rounakbanik/pokemon)
+  - [x] Clean up data, remove unwanted values
 
 ## 🧰 Deck Management (Max 40 Pokémon)
 - [ ] Create maintainable deck logic (max 40 Pokémon)
@@ -12,7 +13,7 @@
 ## 🎲 Random Selection
 - [ ] Select random Pokémon from CSV  
   - [ ] Use weighted probabilities
-  
+
 ## 🌐 API Integration
 - [ ] Use API call to pull Pokémon stats  
   - [ ] [https://pokeapi.co/](https://pokeapi.co/)

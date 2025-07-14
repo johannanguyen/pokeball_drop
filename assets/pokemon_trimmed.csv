@@ -1,0 +1,802 @@
+﻿abilities,capture_rate,name,pokedex_number,type1,type2,is_legendary
+"['Overgrow', 'Chlorophyll']",45,Bulbasaur,1,grass,poison,0
+"['Overgrow', 'Chlorophyll']",45,Ivysaur,2,grass,poison,0
+"['Overgrow', 'Chlorophyll']",45,Venusaur,3,grass,poison,0
+"['Blaze', 'Solar Power']",45,Charmander,4,fire,,0
+"['Blaze', 'Solar Power']",45,Charmeleon,5,fire,,0
+"['Blaze', 'Solar Power']",45,Charizard,6,fire,flying,0
+"['Torrent', 'Rain Dish']",45,Squirtle,7,water,,0
+"['Torrent', 'Rain Dish']",45,Wartortle,8,water,,0
+"['Torrent', 'Rain Dish']",45,Blastoise,9,water,,0
+"['Shield Dust', 'Run Away']",255,Caterpie,10,bug,,0
+['Shed Skin'],120,Metapod,11,bug,,0
+"['Compoundeyes', 'Tinted Lens']",45,Butterfree,12,bug,flying,0
+"['Shield Dust', 'Run Away']",255,Weedle,13,bug,poison,0
+['Shed Skin'],120,Kakuna,14,bug,poison,0
+"['Swarm', 'Sniper']",45,Beedrill,15,bug,poison,0
+"['Keen Eye', 'Tangled Feet', 'Big Pecks']",255,Pidgey,16,normal,flying,0
+"['Keen Eye', 'Tangled Feet', 'Big Pecks']",120,Pidgeotto,17,normal,flying,0
+"['Keen Eye', 'Tangled Feet', 'Big Pecks']",45,Pidgeot,18,normal,flying,0
+"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",255,Rattata,19,normal,dark,0
+"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",127,Raticate,20,normal,dark,0
+"['Keen Eye', 'Sniper']",255,Spearow,21,normal,flying,0
+"['Keen Eye', 'Sniper']",90,Fearow,22,normal,flying,0
+"['Intimidate', 'Shed Skin', 'Unnerve']",255,Ekans,23,poison,,0
+"['Intimidate', 'Shed Skin', 'Unnerve']",90,Arbok,24,poison,,0
+"['Static', 'Lightningrod']",190,Pikachu,25,electric,,0
+"['Static', 'Lightningrod', 'Surge Surfer']",75,Raichu,26,electric,electric,0
+"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",255,Sandshrew,27,ground,ice,0
+"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",90,Sandslash,28,ground,ice,0
+"['Poison Point', 'Rivalry', 'Hustle']",235,Nidoranâ™€,29,poison,,0
+"['Poison Point', 'Rivalry', 'Hustle']",120,Nidorina,30,poison,,0
+"['Poison Point', 'Rivalry', 'Sheer Force']",45,Nidoqueen,31,poison,ground,0
+"['Poison Point', 'Rivalry', 'Hustle']",235,Nidoranâ™‚,32,poison,,0
+"['Poison Point', 'Rivalry', 'Hustle']",120,Nidorino,33,poison,,0
+"['Poison Point', 'Rivalry', 'Sheer Force']",45,Nidoking,34,poison,ground,0
+"['Cute Charm', 'Magic Guard', 'Friend Guard']",150,Clefairy,35,fairy,,0
+"['Cute Charm', 'Magic Guard', 'Unaware']",25,Clefable,36,fairy,,0
+"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",190,Vulpix,37,fire,ice,0
+"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",75,Ninetales,38,fire,ice,0
+"['Cute Charm', 'Competitive', 'Friend Guard']",170,Jigglypuff,39,normal,fairy,0
+"['Cute Charm', 'Competitive', 'Frisk']",50,Wigglytuff,40,normal,fairy,0
+"['Inner Focus', 'Infiltrator']",255,Zubat,41,poison,flying,0
+"['Inner Focus', 'Infiltrator']",90,Golbat,42,poison,flying,0
+"['Chlorophyll', 'Run Away']",255,Oddish,43,grass,poison,0
+"['Chlorophyll', 'Stench']",120,Gloom,44,grass,poison,0
+"['Chlorophyll', 'Effect Spore']",45,Vileplume,45,grass,poison,0
+"['Effect Spore', 'Dry Skin', 'Damp']",190,Paras,46,bug,grass,0
+"['Effect Spore', 'Dry Skin', 'Damp']",75,Parasect,47,bug,grass,0
+"['Compoundeyes', 'Tinted Lens', 'Run Away']",190,Venonat,48,bug,poison,0
+"['Shield Dust', 'Tinted Lens', 'Wonder Skin ']",75,Venomoth,49,bug,poison,0
+"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",255,Diglett,50,ground,ground,0
+"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",50,Dugtrio,51,ground,ground,0
+"['Pickup', 'Technician', 'Unnerve', 'Pickup', 'Technician', 'Rattled']",255,Meowth,52,normal,dark,0
+"['Limber', 'Technician', 'Unnerve', 'Fur Coat', 'Technician', 'Rattled']",90,Persian,53,normal,dark,0
+"['Damp', 'Cloud Nine', 'Swift Swim']",190,Psyduck,54,water,,0
+"['Damp', 'Cloud Nine', 'Swift Swim']",75,Golduck,55,water,,0
+"['Vital Spirit', 'Anger Point', 'Defiant']",190,Mankey,56,fighting,,0
+"['Vital Spirit', 'Anger Point', 'Defiant']",75,Primeape,57,fighting,,0
+"['Intimidate', 'Flash Fire', 'Justified']",190,Growlithe,58,fire,,0
+"['Intimidate', 'Flash Fire', 'Justified']",75,Arcanine,59,fire,,0
+"['Water Absorb', 'Damp', 'Swift Swim']",255,Poliwag,60,water,,0
+"['Water Absorb', 'Damp', 'Swift Swim']",120,Poliwhirl,61,water,,0
+"['Water Absorb', 'Damp', 'Swift Swim']",45,Poliwrath,62,water,fighting,0
+"['Synchronize', 'Inner Focus', 'Magic Guard']",200,Abra,63,psychic,,0
+"['Synchronize', 'Inner Focus', 'Magic Guard']",100,Kadabra,64,psychic,,0
+"['Synchronize', 'Inner Focus', 'Magic Guard']",50,Alakazam,65,psychic,,0
+"['Guts', 'No Guard', 'Steadfast']",180,Machop,66,fighting,,0
+"['Guts', 'No Guard', 'Steadfast']",90,Machoke,67,fighting,,0
+"['Guts', 'No Guard', 'Steadfast']",45,Machamp,68,fighting,,0
+"['Chlorophyll', 'Gluttony']",255,Bellsprout,69,grass,poison,0
+"['Chlorophyll', 'Gluttony']",120,Weepinbell,70,grass,poison,0
+"['Chlorophyll', 'Gluttony']",45,Victreebel,71,grass,poison,0
+"['Clear Body', 'Liquid Ooze', 'Rain Dish']",190,Tentacool,72,water,poison,0
+"['Clear Body', 'Liquid Ooze', 'Rain Dish']",60,Tentacruel,73,water,poison,0
+"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",255,Geodude,74,rock,ground,0
+"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",120,Graveler,75,rock,ground,0
+"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",45,Golem,76,rock,ground,0
+"['Run Away', 'Flash Fire', 'Flame Body']",190,Ponyta,77,fire,,0
+"['Run Away', 'Flash Fire', 'Flame Body']",60,Rapidash,78,fire,,0
+"['Oblivious', 'Own Tempo', 'Regenerator']",190,Slowpoke,79,water,psychic,0
+"['Oblivious', 'Own Tempo', 'Regenerator']",75,Slowbro,80,water,psychic,0
+"['Magnet Pull', 'Sturdy', 'Analytic']",190,Magnemite,81,electric,steel,0
+"['Magnet Pull', 'Sturdy', 'Analytic']",60,Magneton,82,electric,steel,0
+"['Keen Eye', 'Inner Focus', 'Defiant']",45,Farfetch'd,83,normal,flying,0
+"['Run Away', 'Early Bird', 'Tangled Feet']",190,Doduo,84,normal,flying,0
+"['Run Away', 'Early Bird', 'Tangled Feet']",45,Dodrio,85,normal,flying,0
+"['Thick Fat', 'Hydration', 'Ice Body']",190,Seel,86,water,,0
+"['Thick Fat', 'Hydration', 'Ice Body']",75,Dewgong,87,water,ice,0
+"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",190,Grimer,88,poison,poison,0
+"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",75,Muk,89,poison,poison,0
+"['Shell Armor', 'Skill Link', 'Overcoat']",190,Shellder,90,water,,0
+"['Shell Armor', 'Skill Link', 'Overcoat']",60,Cloyster,91,water,ice,0
+['Levitate'],190,Gastly,92,ghost,poison,0
+['Levitate'],90,Haunter,93,ghost,poison,0
+['Cursed Body'],45,Gengar,94,ghost,poison,0
+"['Rock Head', 'Sturdy', 'Weak Armor']",45,Onix,95,rock,ground,0
+"['Insomnia', 'Forewarn', 'Inner Focus']",190,Drowzee,96,psychic,,0
+"['Insomnia', 'Forewarn', 'Inner Focus']",75,Hypno,97,psychic,,0
+"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",225,Krabby,98,water,,0
+"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",60,Kingler,99,water,,0
+"['Soundproof', 'Static', 'Aftermath']",190,Voltorb,100,electric,,0
+"['Soundproof', 'Static', 'Aftermath']",60,Electrode,101,electric,,0
+"['Chlorophyll', 'Harvest']",90,Exeggcute,102,grass,psychic,0
+"['Chlorophyll', 'Harvest', 'Frisk', 'Harvest']",45,Exeggutor,103,grass,psychic,0
+"['Rock Head', 'Lightningrod', 'Battle Armor']",190,Cubone,104,ground,,0
+"['Rock Head', 'Lightningrod', 'Battle Armor', 'Cursed Body', 'Lightningrod', 'Rock Head']",75,Marowak,105,ground,fire,0
+"['Limber', 'Reckless', 'Unburden']",45,Hitmonlee,106,fighting,,0
+"['Keen Eye', 'Iron Fist', 'Inner Focus']",45,Hitmonchan,107,fighting,,0
+"['Own Tempo', 'Oblivious', 'Cloud Nine']",45,Lickitung,108,normal,,0
+['Levitate'],190,Koffing,109,poison,,0
+['Levitate'],60,Weezing,110,poison,,0
+"['Lightningrod', 'Rock Head', 'Reckless']",120,Rhyhorn,111,ground,rock,0
+"['Lightningrod', 'Rock Head', 'Reckless']",60,Rhydon,112,ground,rock,0
+"['Natural Cure', 'Serene Grace', 'Healer']",30,Chansey,113,normal,,0
+"['Chlorophyll', 'Leaf Guard', 'Regenerator']",45,Tangela,114,grass,,0
+"['Early Bird', 'Scrappy', 'Inner Focus']",45,Kangaskhan,115,normal,,0
+"['Swift Swim', 'Sniper', 'Damp']",225,Horsea,116,water,,0
+"['Poison Point', 'Sniper', 'Damp']",75,Seadra,117,water,,0
+"['Swift Swim', 'Water Veil', 'Lightningrod']",225,Goldeen,118,water,,0
+"['Swift Swim', 'Water Veil', 'Lightningrod']",60,Seaking,119,water,,0
+"['Illuminate', 'Natural Cure', 'Analytic']",225,Staryu,120,water,,0
+"['Illuminate', 'Natural Cure', 'Analytic']",60,Starmie,121,water,psychic,0
+"['Soundproof', 'Filter', 'Technician']",45,Mr. Mime,122,psychic,fairy,0
+"['Swarm', 'Technician', 'Steadfast']",45,Scyther,123,bug,flying,0
+"['Oblivious', 'Forewarn', 'Dry Skin']",45,Jynx,124,ice,psychic,0
+"['Static', 'Vital Spirit']",45,Electabuzz,125,electric,,0
+"['Flame Body', 'Vital Spirit']",45,Magmar,126,fire,,0
+"['Hyper Cutter', 'Mold Breaker', 'Moxie']",45,Pinsir,127,bug,,0
+"['Intimidate', 'Anger Point', 'Sheer Force']",45,Tauros,128,normal,,0
+"['Swift Swim', 'Rattled']",255,Magikarp,129,water,,0
+"['Intimidate', 'Moxie']",45,Gyarados,130,water,flying,0
+"['Water Absorb', 'Shell Armor', 'Hydration']",45,Lapras,131,water,ice,0
+"['Limber', 'Imposter']",35,Ditto,132,normal,,0
+"['Run Away', 'Adaptability', 'Anticipation']",45,Eevee,133,normal,,0
+"['Water Absorb', 'Hydration']",45,Vaporeon,134,water,,0
+"['Volt Absorb', 'Quick Feet']",45,Jolteon,135,electric,,0
+"['Flash Fire', 'Guts']",45,Flareon,136,fire,,0
+"['Trace', 'Download', 'Analytic']",45,Porygon,137,normal,,0
+"['Swift Swim', 'Shell Armor', 'Weak Armor']",45,Omanyte,138,rock,water,0
+"['Swift Swim', 'Shell Armor', 'Weak Armor']",45,Omastar,139,rock,water,0
+"['Swift Swim', 'Battle Armor', 'Weak Armor']",45,Kabuto,140,rock,water,0
+"['Swift Swim', 'Battle Armor', 'Weak Armor']",45,Kabutops,141,rock,water,0
+"['Rock Head', 'Pressure', 'Unnerve']",45,Aerodactyl,142,rock,flying,0
+"['Immunity', 'Thick Fat', 'Gluttony']",25,Snorlax,143,normal,,0
+"['Pressure', 'Snow Cloak']",3,Articuno,144,ice,flying,1
+"['Pressure', 'Static']",3,Zapdos,145,electric,flying,1
+"['Pressure', 'Flame Body']",3,Moltres,146,fire,flying,1
+"['Shed Skin', 'Marvel Scale']",45,Dratini,147,dragon,,0
+"['Shed Skin', 'Marvel Scale']",45,Dragonair,148,dragon,,0
+"['Inner Focus', 'Multiscale']",45,Dragonite,149,dragon,flying,0
+"['Pressure', 'Unnerve']",3,Mewtwo,150,psychic,,1
+['Synchronize'],45,Mew,151,psychic,,1
+"['Overgrow', 'Leaf Guard']",45,Chikorita,152,grass,,0
+"['Overgrow', 'Leaf Guard']",45,Bayleef,153,grass,,0
+"['Overgrow', 'Leaf Guard']",45,Meganium,154,grass,,0
+"['Blaze', 'Flash Fire']",45,Cyndaquil,155,fire,,0
+"['Blaze', 'Flash Fire']",45,Quilava,156,fire,,0
+"['Blaze', 'Flash Fire']",45,Typhlosion,157,fire,,0
+"['Torrent', 'Sheer Force']",45,Totodile,158,water,,0
+"['Torrent', 'Sheer Force']",45,Croconaw,159,water,,0
+"['Torrent', 'Sheer Force']",45,Feraligatr,160,water,,0
+"['Run Away', 'Keen Eye', 'Frisk']",255,Sentret,161,normal,,0
+"['Run Away', 'Keen Eye', 'Frisk']",90,Furret,162,normal,,0
+"['Insomnia', 'Keen Eye', 'Tinted Lens']",255,Hoothoot,163,normal,flying,0
+"['Insomnia', 'Keen Eye', 'Tinted Lens']",90,Noctowl,164,normal,flying,0
+"['Swarm', 'Early Bird', 'Rattled']",255,Ledyba,165,bug,flying,0
+"['Swarm', 'Early Bird', 'Iron Fist']",90,Ledian,166,bug,flying,0
+"['Swarm', 'Insomnia', 'Sniper']",255,Spinarak,167,bug,poison,0
+"['Swarm', 'Insomnia', 'Sniper']",90,Ariados,168,bug,poison,0
+"['Inner Focus', 'Infiltrator']",90,Crobat,169,poison,flying,0
+"['Volt Absorb', 'Illuminate', 'Water Absorb']",190,Chinchou,170,water,electric,0
+"['Volt Absorb', 'Illuminate', 'Water Absorb']",75,Lanturn,171,water,electric,0
+"['Static', 'Lightningrod']",190,Pichu,172,electric,,0
+"['Cute Charm', 'Magic Guard', 'Friend Guard']",150,Cleffa,173,fairy,,0
+"['Cute Charm', 'Competitive', 'Friend Guard']",170,Igglybuff,174,normal,fairy,0
+"['Hustle', 'Serene Grace', 'Super Luck']",190,Togepi,175,fairy,,0
+"['Hustle', 'Serene Grace', 'Super Luck']",75,Togetic,176,fairy,flying,0
+"['Synchronize', 'Early Bird', 'Magic Bounce']",190,Natu,177,psychic,flying,0
+"['Synchronize', 'Early Bird', 'Magic Bounce']",75,Xatu,178,psychic,flying,0
+"['Static', 'Plus']",235,Mareep,179,electric,,0
+"['Static', 'Plus']",120,Flaaffy,180,electric,,0
+"['Static', 'Plus']",45,Ampharos,181,electric,,0
+"['Chlorophyll', 'Healer']",45,Bellossom,182,grass,,0
+"['Thick Fat', 'Huge Power', 'Sap Sipper']",190,Marill,183,water,fairy,0
+"['Thick Fat', 'Huge Power', 'Sap Sipper']",75,Azumarill,184,water,fairy,0
+"['Sturdy', 'Rock Head', 'Rattled']",65,Sudowoodo,185,rock,,0
+"['Water Absorb', 'Damp', 'Drizzle']",45,Politoed,186,water,,0
+"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",255,Hoppip,187,grass,flying,0
+"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",120,Skiploom,188,grass,flying,0
+"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",45,Jumpluff,189,grass,flying,0
+"['Run Away', 'Pickup', 'Skill Link']",45,Aipom,190,normal,,0
+"['Chlorophyll', 'Solar Power', 'Early Bird']",235,Sunkern,191,grass,,0
+"['Chlorophyll', 'Solar Power', 'Early Bird']",120,Sunflora,192,grass,,0
+"['Speed Boost', 'Compoundeyes', 'Frisk']",75,Yanma,193,bug,flying,0
+"['Damp', 'Water Absorb', 'Unaware']",255,Wooper,194,water,ground,0
+"['Damp', 'Water Absorb', 'Unaware']",90,Quagsire,195,water,ground,0
+"['Synchronize', 'Magic Bounce']",45,Espeon,196,psychic,,0
+"['Synchronize', 'Inner Focus']",45,Umbreon,197,dark,,0
+"['Insomnia', 'Super Luck', 'Prankster']",30,Murkrow,198,dark,flying,0
+"['Oblivious', 'Own Tempo', 'Regenerator']",70,Slowking,199,water,psychic,0
+['Levitate'],45,Misdreavus,200,ghost,,0
+['Levitate'],225,Unown,201,psychic,,0
+"['Shadow Tag', 'Telepathy']",45,Wobbuffet,202,psychic,,0
+"['Inner Focus', 'Early Bird', 'Sap Sipper']",60,Girafarig,203,normal,psychic,0
+"['Sturdy', 'Overcoat']",190,Pineco,204,bug,,0
+"['Sturdy', 'Overcoat']",75,Forretress,205,bug,steel,0
+"['Serene Grace', 'Run Away', 'Rattled']",190,Dunsparce,206,normal,,0
+"['Hyper Cutter', 'Sand Veil', 'Immunity']",60,Gligar,207,ground,flying,0
+"['Rock Head', 'Sturdy', 'Sheer Force']",25,Steelix,208,steel,ground,0
+"['Intimidate', 'Run Away', 'Rattled']",190,Snubbull,209,fairy,,0
+"['Intimidate', 'Quick Feet', 'Rattled']",75,Granbull,210,fairy,,0
+"['Poison Point', 'Swift Swim', 'Intimidate']",45,Qwilfish,211,water,poison,0
+"['Swarm', 'Technician', 'Light Metal']",25,Scizor,212,bug,steel,0
+"['Sturdy', 'Gluttony', 'Contrary']",190,Shuckle,213,bug,rock,0
+"['Swarm', 'Guts', 'Moxie']",45,Heracross,214,bug,fighting,0
+"['Inner Focus', 'Keen Eye', 'Pickpocket']",60,Sneasel,215,dark,ice,0
+"['Pickup', 'Quick Feet', 'Honey Gather']",120,Teddiursa,216,normal,,0
+"['Guts', 'Quick Feet', 'Unnerve']",60,Ursaring,217,normal,,0
+"['Magma Armor', 'Flame Body', 'Weak Armor']",190,Slugma,218,fire,,0
+"['Magma Armor', 'Flame Body', 'Weak Armor']",75,Magcargo,219,fire,rock,0
+"['Oblivious', 'Snow Cloak', 'Thick Fat']",225,Swinub,220,ice,ground,0
+"['Oblivious', 'Snow Cloak', 'Thick Fat']",75,Piloswine,221,ice,ground,0
+"['Hustle', 'Natural Cure', 'Regenerator']",60,Corsola,222,water,rock,0
+"['Hustle', 'Sniper', 'Moody']",190,Remoraid,223,water,,0
+"['Suction Cups', 'Sniper', 'Moody']",75,Octillery,224,water,,0
+"['Vital Spirit', 'Hustle', 'Insomnia']",45,Delibird,225,ice,flying,0
+"['Swift Swim', 'Water Absorb', 'Water Veil']",25,Mantine,226,water,flying,0
+"['Keen Eye', 'Sturdy', 'Weak Armor']",25,Skarmory,227,steel,flying,0
+"['Early Bird', 'Flash Fire', 'Unnerve']",120,Houndour,228,dark,fire,0
+"['Early Bird', 'Flash Fire', 'Unnerve']",45,Houndoom,229,dark,fire,0
+"['Swift Swim', 'Sniper', 'Damp']",45,Kingdra,230,water,dragon,0
+"['Pickup', 'Sand Veil']",120,Phanpy,231,ground,,0
+"['Sturdy', 'Sand Veil']",60,Donphan,232,ground,,0
+"['Trace', 'Download', 'Analytic']",45,Porygon2,233,normal,,0
+"['Intimidate', 'Frisk', 'Sap Sipper']",45,Stantler,234,normal,,0
+"['Own Tempo', 'Technician', 'Moody']",45,Smeargle,235,normal,,0
+"['Guts', 'Steadfast', 'Vital Spirit']",75,Tyrogue,236,fighting,,0
+"['Intimidate', 'Technician', 'Steadfast']",45,Hitmontop,237,fighting,,0
+"['Oblivious', 'Forewarn', 'Hydration']",45,Smoochum,238,ice,psychic,0
+"['Static', 'Vital Spirit']",45,Elekid,239,electric,,0
+"['Flame Body', 'Vital Spirit']",45,Magby,240,fire,,0
+"['Thick Fat', 'Scrappy', 'Sap Sipper']",45,Miltank,241,normal,,0
+"['Natural Cure', 'Serene Grace', 'Healer']",30,Blissey,242,normal,,0
+"['Pressure', 'Inner Focus']",3,Raikou,243,electric,,1
+"['Pressure', 'Inner Focus']",3,Entei,244,fire,,1
+"['Pressure', 'Inner Focus']",3,Suicune,245,water,,1
+"['Guts', 'Sand Veil']",45,Larvitar,246,rock,ground,0
+['Shed Skin'],45,Pupitar,247,rock,ground,0
+"['Sand Stream', 'Unnerve']",45,Tyranitar,248,rock,dark,0
+"['Pressure', 'Multiscale']",3,Lugia,249,psychic,flying,1
+"['Pressure', 'Regenerator']",3,Ho-Oh,250,fire,flying,1
+['Natural Cure'],45,Celebi,251,psychic,grass,1
+"['Overgrow', 'Unburden']",45,Treecko,252,grass,,0
+"['Overgrow', 'Unburden']",45,Grovyle,253,grass,,0
+"['Overgrow', 'Unburden']",45,Sceptile,254,grass,,0
+"['Blaze', 'Speed Boost']",45,Torchic,255,fire,,0
+"['Blaze', 'Speed Boost']",45,Combusken,256,fire,fighting,0
+"['Blaze', 'Speed Boost']",45,Blaziken,257,fire,fighting,0
+"['Torrent', 'Damp']",45,Mudkip,258,water,,0
+"['Torrent', 'Damp']",45,Marshtomp,259,water,ground,0
+"['Torrent', 'Damp']",45,Swampert,260,water,ground,0
+"['Run Away', 'Quick Feet', 'Rattled']",255,Poochyena,261,dark,,0
+"['Intimidate', 'Quick Feet', 'Moxie']",127,Mightyena,262,dark,,0
+"['Pickup', 'Gluttony', 'Quick Feet']",255,Zigzagoon,263,normal,,0
+"['Pickup', 'Gluttony', 'Quick Feet']",90,Linoone,264,normal,,0
+"['Shield Dust', 'Run Away']",255,Wurmple,265,bug,,0
+['Shed Skin'],120,Silcoon,266,bug,,0
+"['Swarm', 'Rivalry']",45,Beautifly,267,bug,flying,0
+['Shed Skin'],120,Cascoon,268,bug,,0
+"['Shield Dust', 'Compoundeyes']",45,Dustox,269,bug,poison,0
+"['Swift Swim', 'Rain Dish', 'Own Tempo']",255,Lotad,270,water,grass,0
+"['Swift Swim', 'Rain Dish', 'Own Tempo']",120,Lombre,271,water,grass,0
+"['Swift Swim', 'Rain Dish', 'Own Tempo']",45,Ludicolo,272,water,grass,0
+"['Chlorophyll', 'Early Bird', 'Pickpocket']",255,Seedot,273,grass,,0
+"['Chlorophyll', 'Early Bird', 'Pickpocket']",120,Nuzleaf,274,grass,dark,0
+"['Chlorophyll', 'Early Bird', 'Pickpocket']",45,Shiftry,275,grass,dark,0
+"['Guts', 'Scrappy']",200,Taillow,276,normal,flying,0
+"['Guts', 'Scrappy']",45,Swellow,277,normal,flying,0
+"['Keen Eye', 'Hydration', 'Rain Dish']",190,Wingull,278,water,flying,0
+"['Keen Eye', 'Drizzle', 'Rain Dish']",45,Pelipper,279,water,flying,0
+"['Synchronize', 'Trace', 'Telepathy']",235,Ralts,280,psychic,fairy,0
+"['Synchronize', 'Trace', 'Telepathy']",120,Kirlia,281,psychic,fairy,0
+"['Synchronize', 'Trace', 'Telepathy']",45,Gardevoir,282,psychic,fairy,0
+"['Swift Swim', 'Rain Dish']",200,Surskit,283,bug,water,0
+"['Intimidate', 'Unnerve']",75,Masquerain,284,bug,flying,0
+"['Effect Spore', 'Poison Heal', 'Quick Feet']",255,Shroomish,285,grass,,0
+"['Effect Spore', 'Poison Heal', 'Technician']",90,Breloom,286,grass,fighting,0
+['Truant'],255,Slakoth,287,normal,,0
+['Vital Spirit'],120,Vigoroth,288,normal,,0
+['Truant'],45,Slaking,289,normal,,0
+"['Compoundeyes', 'Run Away']",255,Nincada,290,bug,ground,0
+"['Speed Boost', 'Infiltrator']",120,Ninjask,291,bug,flying,0
+['Wonder Guard'],45,Shedinja,292,bug,ghost,0
+"['Soundproof', 'Rattled']",190,Whismur,293,normal,,0
+"['Soundproof', 'Scrappy']",120,Loudred,294,normal,,0
+"['Soundproof', 'Scrappy']",45,Exploud,295,normal,,0
+"['Thick Fat', 'Guts', 'Sheer Force']",180,Makuhita,296,fighting,,0
+"['Thick Fat', 'Guts', 'Sheer Force']",200,Hariyama,297,fighting,,0
+"['Thick Fat', 'Huge Power', 'Sap Sipper']",150,Azurill,298,normal,fairy,0
+"['Sturdy', 'Magnet Pull', 'Sand Force']",255,Nosepass,299,rock,,0
+"['Cute Charm', 'Normalize', 'Wonder Skin ']",255,Skitty,300,normal,,0
+"['Cute Charm', 'Normalize', 'Wonder Skin ']",60,Delcatty,301,normal,,0
+"['Keen Eye', 'Stall', 'Prankster']",45,Sableye,302,dark,ghost,0
+"['Hyper Cutter', 'Intimidate', 'Sheer Force']",45,Mawile,303,steel,fairy,0
+"['Sturdy', 'Rock Head', 'Heavy Metal']",180,Aron,304,steel,rock,0
+"['Sturdy', 'Rock Head', 'Heavy Metal']",90,Lairon,305,steel,rock,0
+"['Sturdy', 'Rock Head', 'Heavy Metal']",45,Aggron,306,steel,rock,0
+"['Pure Power', 'Telepathy']",180,Meditite,307,fighting,psychic,0
+"['Pure Power', 'Telepathy']",90,Medicham,308,fighting,psychic,0
+"['Static', 'Lightningrod', 'Minus']",120,Electrike,309,electric,,0
+"['Static', 'Lightningrod', 'Minus']",45,Manectric,310,electric,,0
+"['Plus', 'Lightningrod']",200,Plusle,311,electric,,0
+"['Minus', 'Volt Absorb']",200,Minun,312,electric,,0
+"['Illuminate', 'Swarm', 'Prankster']",150,Volbeat,313,bug,,0
+"['Oblivious', 'Tinted Lens', 'Prankster']",150,Illumise,314,bug,,0
+"['Natural Cure', 'Poison Point', 'Leaf Guard']",150,Roselia,315,grass,poison,0
+"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",225,Gulpin,316,poison,,0
+"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",75,Swalot,317,poison,,0
+"['Rough Skin', 'Speed Boost']",225,Carvanha,318,water,dark,0
+"['Rough Skin', 'Speed Boost']",60,Sharpedo,319,water,dark,0
+"['Water Veil', 'Oblivious', 'Pressure']",125,Wailmer,320,water,,0
+"['Water Veil', 'Oblivious', 'Pressure']",60,Wailord,321,water,,0
+"['Oblivious', 'Simple', 'Own Tempo']",255,Numel,322,fire,ground,0
+"['Magma Armor', 'Solid Rock', 'Anger Point']",150,Camerupt,323,fire,ground,0
+"['White Smoke', 'Drought', 'Shell Armor']",90,Torkoal,324,fire,,0
+"['Thick Fat', 'Own Tempo', 'Gluttony']",255,Spoink,325,psychic,,0
+"['Thick Fat', 'Own Tempo', 'Gluttony']",60,Grumpig,326,psychic,,0
+"['Own Tempo', 'Tangled Feet', 'Contrary']",255,Spinda,327,normal,,0
+"['Hyper Cutter', 'Arena Trap', 'Sheer Force']",255,Trapinch,328,ground,,0
+['Levitate'],120,Vibrava,329,ground,dragon,0
+['Levitate'],45,Flygon,330,ground,dragon,0
+"['Sand Veil', 'Water Absorb']",190,Cacnea,331,grass,,0
+"['Sand Veil', 'Water Absorb']",60,Cacturne,332,grass,dark,0
+"['Natural Cure', 'Cloud Nine']",255,Swablu,333,normal,flying,0
+"['Natural Cure', 'Cloud Nine']",45,Altaria,334,dragon,flying,0
+"['Immunity', 'Toxic Boost']",90,Zangoose,335,normal,,0
+"['Shed Skin', 'Infiltrator']",90,Seviper,336,poison,,0
+['Levitate'],45,Lunatone,337,rock,psychic,0
+['Levitate'],45,Solrock,338,rock,psychic,0
+"['Oblivious', 'Anticipation', 'Hydration']",190,Barboach,339,water,ground,0
+"['Oblivious', 'Anticipation', 'Hydration']",75,Whiscash,340,water,ground,0
+"['Hyper Cutter', 'Shell Armor', 'Adaptability']",205,Corphish,341,water,,0
+"['Hyper Cutter', 'Shell Armor', 'Adaptability']",155,Crawdaunt,342,water,dark,0
+['Levitate'],255,Baltoy,343,ground,psychic,0
+['Levitate'],90,Claydol,344,ground,psychic,0
+"['Suction Cups', 'Storm Drain']",45,Lileep,345,rock,grass,0
+"['Suction Cups', 'Storm Drain']",45,Cradily,346,rock,grass,0
+"['Battle Armor', 'Swift Swim']",45,Anorith,347,rock,bug,0
+"['Battle Armor', 'Swift Swim']",45,Armaldo,348,rock,bug,0
+"['Swift Swim', 'Oblivious', 'Adaptability']",255,Feebas,349,water,,0
+"['Marvel Scale', 'Competitive', 'Cute Charm']",60,Milotic,350,water,,0
+['Forecast'],45,Castform,351,normal,,0
+"['Color Change', 'Protean']",200,Kecleon,352,normal,,0
+"['Insomnia', 'Frisk', 'Cursed Body']",225,Shuppet,353,ghost,,0
+"['Insomnia', 'Frisk', 'Cursed Body']",45,Banette,354,ghost,,0
+"['Levitate', 'Frisk']",190,Duskull,355,ghost,,0
+"['Pressure', 'Frisk']",90,Dusclops,356,ghost,,0
+"['Chlorophyll', 'Solar Power', 'Harvest']",200,Tropius,357,grass,flying,0
+['Levitate'],45,Chimecho,358,psychic,,0
+"['Pressure', 'Super Luck', 'Justified']",30,Absol,359,dark,,0
+"['Shadow Tag', 'Telepathy']",125,Wynaut,360,psychic,,0
+"['Inner Focus', 'Ice Body', 'Moody']",190,Snorunt,361,ice,,0
+"['Inner Focus', 'Ice Body', 'Moody']",75,Glalie,362,ice,,0
+"['Thick Fat', 'Ice Body', 'Oblivious']",255,Spheal,363,ice,water,0
+"['Thick Fat', 'Ice Body', 'Oblivious']",120,Sealeo,364,ice,water,0
+"['Thick Fat', 'Ice Body', 'Oblivious']",45,Walrein,365,ice,water,0
+"['Shell Armor', 'Rattled']",255,Clamperl,366,water,,0
+"['Swift Swim', 'Water Veil']",60,Huntail,367,water,,0
+"['Swift Swim', 'Hydration']",60,Gorebyss,368,water,,0
+"['Swift Swim', 'Rock Head', 'Sturdy']",25,Relicanth,369,water,rock,0
+"['Swift Swim', 'Hydration']",225,Luvdisc,370,water,,0
+"['Rock Head', 'Sheer Force']",45,Bagon,371,dragon,,0
+"['Rock Head', 'Overcoat']",45,Shelgon,372,dragon,,0
+"['Intimidate', 'Moxie']",45,Salamence,373,dragon,flying,0
+"['Clear Body', 'Light Metal']",3,Beldum,374,steel,psychic,0
+"['Clear Body', 'Light Metal']",3,Metang,375,steel,psychic,0
+"['Clear Body', 'Light Metal']",3,Metagross,376,steel,psychic,0
+"['Clear Body', 'Sturdy']",3,Regirock,377,rock,,1
+"['Clear Body', 'Ice Body']",3,Regice,378,ice,,1
+"['Clear Body', 'Light Metal']",3,Registeel,379,steel,,1
+['Levitate'],3,Latias,380,dragon,psychic,1
+['Levitate'],3,Latios,381,dragon,psychic,1
+['Drizzle'],3,Kyogre,382,water,,1
+['Drought'],3,Groudon,383,ground,,1
+['Air Lock'],45,Rayquaza,384,dragon,flying,1
+['Serene Grace'],3,Jirachi,385,steel,psychic,1
+['Pressure'],3,Deoxys,386,psychic,,1
+"['Overgrow', 'Shell Armor']",45,Turtwig,387,grass,,0
+"['Overgrow', 'Shell Armor']",45,Grotle,388,grass,,0
+"['Overgrow', 'Shell Armor']",45,Torterra,389,grass,ground,0
+"['Blaze', 'Iron Fist']",45,Chimchar,390,fire,,0
+"['Blaze', 'Iron Fist']",45,Monferno,391,fire,fighting,0
+"['Blaze', 'Iron Fist']",45,Infernape,392,fire,fighting,0
+"['Torrent', 'Defiant']",45,Piplup,393,water,,0
+"['Torrent', 'Defiant']",45,Prinplup,394,water,,0
+"['Torrent', 'Defiant']",45,Empoleon,395,water,steel,0
+"['Keen Eye', 'Reckless']",255,Starly,396,normal,flying,0
+"['Intimidate', 'Reckless']",120,Staravia,397,normal,flying,0
+"['Intimidate', 'Reckless']",45,Staraptor,398,normal,flying,0
+"['Simple', 'Unaware', 'Moody']",255,Bidoof,399,normal,,0
+"['Simple', 'Unaware', 'Moody']",127,Bibarel,400,normal,water,0
+"['Shed Skin', 'Run Away']",255,Kricketot,401,bug,,0
+"['Swarm', 'Technician']",45,Kricketune,402,bug,,0
+"['Rivalry', 'Intimidate', 'Guts']",235,Shinx,403,electric,,0
+"['Rivalry', 'Intimidate', 'Guts']",120,Luxio,404,electric,,0
+"['Rivalry', 'Intimidate', 'Guts']",45,Luxray,405,electric,,0
+"['Natural Cure', 'Poison Point', 'Leaf Guard']",255,Budew,406,grass,poison,0
+"['Natural Cure', 'Poison Point', 'Technician']",75,Roserade,407,grass,poison,0
+"['Mold Breaker', 'Sheer Force']",45,Cranidos,408,rock,,0
+"['Mold Breaker', 'Sheer Force']",45,Rampardos,409,rock,,0
+"['Sturdy', 'Soundproof']",45,Shieldon,410,rock,steel,0
+"['Sturdy', 'Soundproof']",45,Bastiodon,411,rock,steel,0
+"['Shed Skin', 'Overcoat']",120,Burmy,412,bug,,0
+"['Anticipation', 'Overcoat']",45,Wormadam,413,bug,grass,0
+"['Swarm', 'Tinted Lens']",45,Mothim,414,bug,flying,0
+"['Honey Gather', 'Hustle']",120,Combee,415,bug,flying,0
+"['Pressure', 'Unnerve']",45,Vespiquen,416,bug,flying,0
+"['Run Away', 'Pickup', 'Volt Absorb']",200,Pachirisu,417,electric,,0
+"['Swift Swim', 'Water Veil']",190,Buizel,418,water,,0
+"['Swift Swim', 'Water Veil']",75,Floatzel,419,water,,0
+['Chlorophyll'],190,Cherubi,420,grass,,0
+['Flower Gift'],75,Cherrim,421,grass,,0
+"['Sticky Hold', 'Storm Drain', 'Sand Force']",190,Shellos,422,water,,0
+"['Sticky Hold', 'Storm Drain', 'Sand Force']",75,Gastrodon,423,water,ground,0
+"['Technician', 'Pickup', 'Skill Link']",45,Ambipom,424,normal,,0
+"['Aftermath', 'Unburden', 'Flare Boost']",125,Drifloon,425,ghost,flying,0
+"['Aftermath', 'Unburden', 'Flare Boost']",60,Drifblim,426,ghost,flying,0
+"['Run Away', 'Klutz', 'Limber']",190,Buneary,427,normal,,0
+"['Cute Charm', 'Klutz', 'Limber']",60,Lopunny,428,normal,,0
+['Levitate'],45,Mismagius,429,ghost,,0
+"['Insomnia', 'Super Luck', 'Moxie']",30,Honchkrow,430,dark,flying,0
+"['Limber', 'Own Tempo', 'Keen Eye']",190,Glameow,431,normal,,0
+"['Thick Fat', 'Own Tempo', 'Defiant']",75,Purugly,432,normal,,0
+['Levitate'],120,Chingling,433,psychic,,0
+"['Stench', 'Aftermath', 'Keen Eye']",225,Stunky,434,poison,dark,0
+"['Stench', 'Aftermath', 'Keen Eye']",60,Skuntank,435,poison,dark,0
+"['Levitate', 'Heatproof', 'Heavy Metal']",255,Bronzor,436,steel,psychic,0
+"['Levitate', 'Heatproof', 'Heavy Metal']",90,Bronzong,437,steel,psychic,0
+"['Sturdy', 'Rock Head', 'Rattled']",255,Bonsly,438,rock,,0
+"['Soundproof', 'Filter', 'Technician']",145,Mime Jr.,439,psychic,fairy,0
+"['Natural Cure', 'Serene Grace', 'Friend Guard']",130,Happiny,440,normal,,0
+"['Keen Eye', 'Tangled Feet', 'Big Pecks']",30,Chatot,441,normal,flying,0
+"['Pressure', 'Infiltrator']",100,Spiritomb,442,ghost,dark,0
+"['Sand Veil', 'Rough Skin']",45,Gible,443,dragon,ground,0
+"['Sand Veil', 'Rough Skin']",45,Gabite,444,dragon,ground,0
+"['Sand Veil', 'Rough Skin']",45,Garchomp,445,dragon,ground,0
+"['Pickup', 'Thick Fat', 'Gluttony']",50,Munchlax,446,normal,,0
+"['Steadfast', 'Inner Focus', 'Prankster']",75,Riolu,447,fighting,,0
+"['Steadfast', 'Inner Focus', 'Justified']",45,Lucario,448,fighting,steel,0
+"['Sand Stream', 'Sand Force']",140,Hippopotas,449,ground,,0
+"['Sand Stream', 'Sand Force']",60,Hippowdon,450,ground,,0
+"['Battle Armor', 'Sniper', 'Keen Eye']",120,Skorupi,451,poison,bug,0
+"['Battle Armor', 'Sniper', 'Keen Eye']",45,Drapion,452,poison,dark,0
+"['Anticipation', 'Dry Skin', 'Poison Touch']",140,Croagunk,453,poison,fighting,0
+"['Anticipation', 'Dry Skin', 'Poison Touch']",75,Toxicroak,454,poison,fighting,0
+['Levitate'],200,Carnivine,455,grass,,0
+"['Swift Swim', 'Storm Drain', 'Water Veil']",190,Finneon,456,water,,0
+"['Swift Swim', 'Storm Drain', 'Water Veil']",75,Lumineon,457,water,,0
+"['Swift Swim', 'Water Absorb', 'Water Veil']",25,Mantyke,458,water,flying,0
+"['Snow Warning', 'Soundproof']",120,Snover,459,grass,ice,0
+"['Snow Warning', 'Soundproof']",60,Abomasnow,460,grass,ice,0
+"['Pressure', 'Pickpocket']",45,Weavile,461,dark,ice,0
+"['Magnet Pull', 'Sturdy', 'Analytic']",30,Magnezone,462,electric,steel,0
+"['Own Tempo', 'Oblivious', 'Cloud Nine']",30,Lickilicky,463,normal,,0
+"['Lightningrod', 'Solid Rock', 'Reckless']",30,Rhyperior,464,ground,rock,0
+"['Chlorophyll', 'Leaf Guard', 'Regenerator']",30,Tangrowth,465,grass,,0
+"['Motor Drive', 'Vital Spirit']",30,Electivire,466,electric,,0
+"['Flame Body', 'Vital Spirit']",30,Magmortar,467,fire,,0
+"['Hustle', 'Serene Grace', 'Super Luck']",30,Togekiss,468,fairy,flying,0
+"['Speed Boost', 'Tinted Lens', 'Frisk']",30,Yanmega,469,bug,flying,0
+"['Leaf Guard', 'Chlorophyll']",45,Leafeon,470,grass,,0
+"['Snow Cloak', 'Ice Body']",45,Glaceon,471,ice,,0
+"['Hyper Cutter', 'Sand Veil', 'Poison Heal']",30,Gliscor,472,ground,flying,0
+"['Oblivious', 'Snow Cloak', 'Thick Fat']",50,Mamoswine,473,ice,ground,0
+"['Adaptability', 'Download', 'Analytic']",30,Porygon-Z,474,normal,,0
+"['Steadfast', 'Justified']",45,Gallade,475,psychic,fighting,0
+"['Sturdy', 'Magnet Pull', 'Sand Force']",60,Probopass,476,rock,steel,0
+"['Pressure', 'Frisk']",45,Dusknoir,477,ghost,,0
+"['Snow Cloak', 'Cursed Body']",75,Froslass,478,ice,ghost,0
+['Levitate'],45,Rotom,479,electric,ghost,0
+['Levitate'],3,Uxie,480,psychic,,1
+['Levitate'],3,Mesprit,481,psychic,,1
+['Levitate'],3,Azelf,482,psychic,,1
+"['Pressure', 'Telepathy']",3,Dialga,483,steel,dragon,1
+"['Pressure', 'Telepathy']",3,Palkia,484,water,dragon,1
+"['Flash Fire', 'Flame Body']",3,Heatran,485,fire,steel,1
+['Slow Start'],3,Regigigas,486,normal,,1
+"['Pressure', 'Telepathy', 'Levitate']",3,Giratina,487,ghost,dragon,1
+['Levitate'],3,Cresselia,488,psychic,,1
+['Hydration'],30,Phione,489,water,,0
+['Hydration'],3,Manaphy,490,water,,1
+['Bad Dreams'],3,Darkrai,491,dark,,1
+"['Natural Cure', 'Serene Grace']",45,Shaymin,492,grass,grass,1
+['Multitype'],3,Arceus,493,normal,,1
+['Victory Star'],3,Victini,494,psychic,fire,1
+"['Overgrow', 'Contrary']",45,Snivy,495,grass,,0
+"['Overgrow', 'Contrary']",45,Servine,496,grass,,0
+"['Overgrow', 'Contrary']",45,Serperior,497,grass,,0
+"['Blaze', 'Thick Fat']",45,Tepig,498,fire,,0
+"['Blaze', 'Thick Fat']",45,Pignite,499,fire,fighting,0
+"['Blaze', 'Reckless']",45,Emboar,500,fire,fighting,0
+"['Torrent', 'Shell Armor']",45,Oshawott,501,water,,0
+"['Torrent', 'Shell Armor']",45,Dewott,502,water,,0
+"['Torrent', 'Shell Armor']",45,Samurott,503,water,,0
+"['Run Away', 'Keen Eye', 'Analytic']",255,Patrat,504,normal,,0
+"['Illuminate', 'Keen Eye', 'Analytic']",255,Watchog,505,normal,,0
+"['Vital Spirit', 'Pickup', 'Run Away']",255,Lillipup,506,normal,,0
+"['Intimidate', 'Sand Rush', 'Scrappy']",120,Herdier,507,normal,,0
+"['Intimidate', 'Sand Rush', 'Scrappy']",45,Stoutland,508,normal,,0
+"['Limber', 'Unburden', 'Prankster']",255,Purrloin,509,dark,,0
+"['Limber', 'Unburden', 'Prankster']",90,Liepard,510,dark,,0
+"['Gluttony', 'Overgrow']",190,Pansage,511,grass,,0
+"['Gluttony', 'Overgrow']",75,Simisage,512,grass,,0
+"['Gluttony', 'Blaze']",190,Pansear,513,fire,,0
+"['Gluttony', 'Blaze']",75,Simisear,514,fire,,0
+"['Gluttony', 'Torrent']",190,Panpour,515,water,,0
+"['Gluttony', 'Torrent']",75,Simipour,516,water,,0
+"['Forewarn', 'Synchronize', 'Telepathy']",190,Munna,517,psychic,,0
+"['Forewarn', 'Synchronize', 'Telepathy']",75,Musharna,518,psychic,,0
+"['Big Pecks', 'Super Luck', 'Rivalry']",255,Pidove,519,normal,flying,0
+"['Big Pecks', 'Super Luck', 'Rivalry']",120,Tranquill,520,normal,flying,0
+"['Big Pecks', 'Super Luck', 'Rivalry']",45,Unfezant,521,normal,flying,0
+"['Lightningrod', 'Motor Drive', 'Sap Sipper']",190,Blitzle,522,electric,,0
+"['Lightningrod', 'Motor Drive', 'Sap Sipper']",75,Zebstrika,523,electric,,0
+"['Sturdy', 'Weak Armor', 'Sand Force']",255,Roggenrola,524,rock,,0
+"['Sturdy', 'Weak Armor', 'Sand Force']",120,Boldore,525,rock,,0
+"['Sturdy', 'Sand Stream', 'Sand Force']",45,Gigalith,526,rock,,0
+"['Unaware', 'Klutz', 'Simple']",190,Woobat,527,psychic,flying,0
+"['Unaware', 'Klutz', 'Simple']",45,Swoobat,528,psychic,flying,0
+"['Sand Rush', 'Sand Force', 'Mold Breaker']",120,Drilbur,529,ground,,0
+"['Sand Rush', 'Sand Force', 'Mold Breaker']",60,Excadrill,530,ground,steel,0
+"['Healer', 'Regenerator', 'Klutz']",255,Audino,531,normal,,0
+"['Guts', 'Sheer Force', 'Iron Fist']",180,Timburr,532,fighting,,0
+"['Guts', 'Sheer Force', 'Iron Fist']",90,Gurdurr,533,fighting,,0
+"['Guts', 'Sheer Force', 'Iron Fist']",45,Conkeldurr,534,fighting,,0
+"['Swift Swim', 'Hydration', 'Water Absorb']",255,Tympole,535,water,,0
+"['Swift Swim', 'Hydration', 'Water Absorb']",120,Palpitoad,536,water,ground,0
+"['Swift Swim', 'Poison Touch', 'Water Absorb']",45,Seismitoad,537,water,ground,0
+"['Guts', 'Inner Focus', 'Mold Breaker']",45,Throh,538,fighting,,0
+"['Sturdy', 'Inner Focus', 'Mold Breaker']",45,Sawk,539,fighting,,0
+"['Swarm', 'Chlorophyll', 'Overcoat']",255,Sewaddle,540,bug,grass,0
+"['Leaf Guard', 'Chlorophyll', 'Overcoat']",120,Swadloon,541,bug,grass,0
+"['Swarm', 'Chlorophyll', 'Overcoat']",45,Leavanny,542,bug,grass,0
+"['Poison Point', 'Swarm', 'Speed Boost']",255,Venipede,543,bug,poison,0
+"['Poison Point', 'Swarm', 'Speed Boost']",120,Whirlipede,544,bug,poison,0
+"['Poison Point', 'Swarm', 'Speed Boost']",45,Scolipede,545,bug,poison,0
+"['Prankster', 'Infiltrator', 'Chlorophyll']",190,Cottonee,546,grass,fairy,0
+"['Prankster', 'Infiltrator', 'Chlorophyll']",75,Whimsicott,547,grass,fairy,0
+"['Chlorophyll', 'Own Tempo', 'Leaf Guard']",190,Petilil,548,grass,,0
+"['Chlorophyll', 'Own Tempo', 'Leaf Guard']",75,Lilligant,549,grass,,0
+"['Reckless', 'Rock Head', 'Adaptability', 'Mold Breaker']",25,Basculin,550,water,,0
+"['Intimidate', 'Moxie', 'Anger Point']",180,Sandile,551,ground,dark,0
+"['Intimidate', 'Moxie', 'Anger Point']",90,Krokorok,552,ground,dark,0
+"['Intimidate', 'Moxie', 'Anger Point']",45,Krookodile,553,ground,dark,0
+"['Hustle', 'Inner Focus']",120,Darumaka,554,fire,,0
+"['Sheer Force', 'Zen Mode']",60,Darmanitan,555,fire,fire,0
+"['Water Absorb', 'Chlorophyll', 'Storm Drain']",255,Maractus,556,grass,,0
+"['Sturdy', 'Shell Armor', 'Weak Armor']",190,Dwebble,557,bug,rock,0
+"['Sturdy', 'Shell Armor', 'Weak Armor']",75,Crustle,558,bug,rock,0
+"['Shed Skin', 'Moxie', 'Intimidate']",180,Scraggy,559,dark,fighting,0
+"['Shed Skin', 'Moxie', 'Intimidate']",90,Scrafty,560,dark,fighting,0
+"['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",45,Sigilyph,561,psychic,flying,0
+['Mummy'],190,Yamask,562,ghost,,0
+['Mummy'],90,Cofagrigus,563,ghost,,0
+"['Solid Rock', 'Sturdy', 'Swift Swim']",45,Tirtouga,564,water,rock,0
+"['Solid Rock', 'Sturdy', 'Swift Swim']",45,Carracosta,565,water,rock,0
+['Defeatist'],45,Archen,566,rock,flying,0
+['Defeatist'],45,Archeops,567,rock,flying,0
+"['Stench', 'Sticky Hold', 'Aftermath']",190,Trubbish,568,poison,,0
+"['Stench', 'Weak Armor', 'Aftermath']",60,Garbodor,569,poison,,0
+['Illusion'],75,Zorua,570,dark,,0
+['Illusion'],45,Zoroark,571,dark,,0
+"['Cute Charm', 'Technician', 'Skill Link']",255,Minccino,572,normal,,0
+"['Cute Charm', 'Technician', 'Skill Link']",60,Cinccino,573,normal,,0
+"['Frisk', 'Competitive', 'Shadow Tag']",200,Gothita,574,psychic,,0
+"['Frisk', 'Competitive', 'Shadow Tag']",100,Gothorita,575,psychic,,0
+"['Frisk', 'Competitive', 'Shadow Tag']",50,Gothitelle,576,psychic,,0
+"['Overcoat', 'Magic Guard', 'Regenerator']",200,Solosis,577,psychic,,0
+"['Overcoat', 'Magic Guard', 'Regenerator']",100,Duosion,578,psychic,,0
+"['Overcoat', 'Magic Guard', 'Regenerator']",50,Reuniclus,579,psychic,,0
+"['Keen Eye', 'Big Pecks', 'Hydration']",190,Ducklett,580,water,flying,0
+"['Keen Eye', 'Big Pecks', 'Hydration']",45,Swanna,581,water,flying,0
+"['Ice Body', 'Snow Cloak', 'Weak Armor']",255,Vanillite,582,ice,,0
+"['Ice Body', 'Snow Cloak', 'Weak Armor']",120,Vanillish,583,ice,,0
+"['Ice Body', 'Snow Warning', 'Weak Armor']",45,Vanilluxe,584,ice,,0
+"['Chlorophyll', 'Sap Sipper', 'Serene Grace']",190,Deerling,585,normal,grass,0
+"['Chlorophyll', 'Sap Sipper', 'Serene Grace']",75,Sawsbuck,586,normal,grass,0
+"['Static', 'Motor Drive']",200,Emolga,587,electric,flying,0
+"['Swarm', 'Shed Skin', 'No Guard']",200,Karrablast,588,bug,,0
+"['Swarm', 'Shell Armor', 'Overcoat']",75,Escavalier,589,bug,steel,0
+"['Effect Spore', 'Regenerator']",190,Foongus,590,grass,poison,0
+"['Effect Spore', 'Regenerator']",75,Amoonguss,591,grass,poison,0
+"['Water Absorb', 'Cursed Body', 'Damp']",190,Frillish,592,water,ghost,0
+"['Water Absorb', 'Cursed Body', 'Damp']",60,Jellicent,593,water,ghost,0
+"['Healer', 'Hydration', 'Regenerator']",75,Alomomola,594,water,,0
+"['Compoundeyes', 'Unnerve', 'Swarm']",190,Joltik,595,bug,electric,0
+"['Compoundeyes', 'Unnerve', 'Swarm']",75,Galvantula,596,bug,electric,0
+['Iron Barbs'],255,Ferroseed,597,grass,steel,0
+"['Iron Barbs', 'Anticipation']",90,Ferrothorn,598,grass,steel,0
+"['Plus', 'Minus', 'Clear Body']",130,Klink,599,steel,,0
+"['Plus', 'Minus', 'Clear Body']",60,Klang,600,steel,,0
+"['Plus', 'Minus', 'Clear Body']",30,Klinklang,601,steel,,0
+['Levitate'],190,Tynamo,602,electric,,0
+['Levitate'],60,Eelektrik,603,electric,,0
+['Levitate'],30,Eelektross,604,electric,,0
+"['Telepathy', 'Synchronize', 'Analytic']",255,Elgyem,605,psychic,,0
+"['Telepathy', 'Synchronize', 'Analytic']",90,Beheeyem,606,psychic,,0
+"['Flash Fire', 'Flame Body', 'Infiltrator']",190,Litwick,607,ghost,fire,0
+"['Flash Fire', 'Flame Body', 'Infiltrator']",90,Lampent,608,ghost,fire,0
+"['Flash Fire', 'Flame Body', 'Infiltrator']",45,Chandelure,609,ghost,fire,0
+"['Rivalry', 'Mold Breaker', 'Unnerve']",75,Axew,610,dragon,,0
+"['Rivalry', 'Mold Breaker', 'Unnerve']",60,Fraxure,611,dragon,,0
+"['Rivalry', 'Mold Breaker', 'Unnerve']",45,Haxorus,612,dragon,,0
+"['Snow Cloak', 'Slush Rush', 'Rattled']",120,Cubchoo,613,ice,,0
+"['Snow Cloak', 'Slush Rush', 'Swift Swim']",60,Beartic,614,ice,,0
+['Levitate'],25,Cryogonal,615,ice,,0
+"['Hydration', 'Shell Armor', 'Overcoat']",200,Shelmet,616,bug,,0
+"['Hydration', 'Sticky Hold', 'Unburden']",75,Accelgor,617,bug,,0
+"['Static', 'Limber', 'Sand Veil']",75,Stunfisk,618,ground,electric,0
+"['Inner Focus', 'Regenerator', 'Reckless']",180,Mienfoo,619,fighting,,0
+"['Inner Focus', 'Regenerator', 'Reckless']",45,Mienshao,620,fighting,,0
+"['Rough Skin', 'Sheer Force', 'Mold Breaker']",45,Druddigon,621,dragon,,0
+"['Iron Fist', 'Klutz', 'No Guard']",190,Golett,622,ground,ghost,0
+"['Iron Fist', 'Klutz', 'No Guard']",90,Golurk,623,ground,ghost,0
+"['Defiant', 'Inner Focus', 'Pressure']",120,Pawniard,624,dark,steel,0
+"['Defiant', 'Inner Focus', 'Pressure']",45,Bisharp,625,dark,steel,0
+"['Reckless', 'Sap Sipper', 'Soundproof']",45,Bouffalant,626,normal,,0
+"['Keen Eye', 'Sheer Force', 'Hustle']",190,Rufflet,627,normal,flying,0
+"['Keen Eye', 'Sheer Force', 'Defiant']",60,Braviary,628,normal,flying,0
+"['Big Pecks', 'Overcoat', 'Weak Armor']",190,Vullaby,629,dark,flying,0
+"['Big Pecks', 'Overcoat', 'Weak Armor']",60,Mandibuzz,630,dark,flying,0
+"['Gluttony', 'Flash Fire', 'White Smoke']",90,Heatmor,631,fire,,0
+"['Swarm', 'Hustle', 'Truant']",90,Durant,632,bug,steel,0
+['Hustle'],45,Deino,633,dark,dragon,0
+['Hustle'],45,Zweilous,634,dark,dragon,0
+['Levitate'],45,Hydreigon,635,dark,dragon,0
+"['Flame Body', 'Swarm']",45,Larvesta,636,bug,fire,0
+"['Flame Body', 'Swarm']",15,Volcarona,637,bug,fire,0
+['Justified'],3,Cobalion,638,steel,fighting,1
+['Justified'],3,Terrakion,639,rock,fighting,1
+['Justified'],3,Virizion,640,grass,fighting,1
+"['Prankster', 'Defiant', 'Regenerator']",3,Tornadus,641,flying,,1
+"['Prankster', 'Defiant', 'Volt Absorb']",3,Thundurus,642,electric,flying,1
+['Turboblaze'],3,Reshiram,643,dragon,fire,1
+['Teravolt'],3,Zekrom,644,dragon,electric,1
+"['Sand Force', 'Sheer Force', 'Intimidate']",3,Landorus,645,ground,flying,1
+"['Pressure', 'Teravolt', 'Turboblaze']",3,Kyurem,646,dragon,ice,1
+['Justified'],3,Keldeo,647,water,fighting,1
+['Serene Grace'],3,Meloetta,648,normal,psychic,1
+['Download'],3,Genesect,649,bug,steel,1
+"['Overgrow', 'Bulletproof']",45,Chespin,650,grass,,0
+"['Overgrow', 'Bulletproof']",45,Quilladin,651,grass,,0
+"['Overgrow', 'Bulletproof']",45,Chesnaught,652,grass,fighting,0
+"['Blaze', 'Magician']",45,Fennekin,653,fire,,0
+"['Blaze', 'Magician']",45,Braixen,654,fire,,0
+"['Blaze', 'Magician']",45,Delphox,655,fire,psychic,0
+"['Torrent', 'Protean']",45,Froakie,656,water,,0
+"['Torrent', 'Protean']",45,Frogadier,657,water,,0
+"['Torrent', 'Protean', 'Battle Bond']",45,Greninja,658,water,dark,0
+"['Pickup', 'Cheek Pouch', 'Huge Power']",255,Bunnelby,659,normal,,0
+"['Pickup', 'Cheek Pouch', 'Huge Power']",127,Diggersby,660,normal,ground,0
+"['Big Pecks', 'Gale Wings']",255,Fletchling,661,normal,flying,0
+"['Flame Body', 'Gale Wings']",120,Fletchinder,662,fire,flying,0
+"['Flame Body', 'Gale Wings']",45,Talonflame,663,fire,flying,0
+"['Shield Dust', 'Compoundeyes', 'Friend Guard']",255,Scatterbug,664,bug,,0
+"['Shed Skin', 'Friend Guard']",120,Spewpa,665,bug,,0
+"['Shield Dust', 'Compoundeyes', 'Friend Guard']",45,Vivillon,666,bug,flying,0
+"['Rivalry', 'Unnerve', 'Moxie']",220,Litleo,667,fire,normal,0
+"['Rivalry', 'Unnerve', 'Moxie']",65,Pyroar,668,fire,normal,0
+"['Flower Veil', 'Symbiosis']",225,FlabÃ©bÃ©,669,fairy,,0
+"['Flower Veil', 'Symbiosis']",120,Floette,670,fairy,,0
+"['Flower Veil', 'Symbiosis']",45,Florges,671,fairy,,0
+"['Sap Sipper', 'Grass Pelt']",200,Skiddo,672,grass,,0
+"['Sap Sipper', 'Grass Pelt']",45,Gogoat,673,grass,,0
+"['Iron Fist', 'Mold Breaker', 'Scrappy']",220,Pancham,674,fighting,,0
+"['Iron Fist', 'Mold Breaker', 'Scrappy']",65,Pangoro,675,fighting,dark,0
+['Fur Coat'],160,Furfrou,676,normal,,0
+"['Keen Eye', 'Infiltrator', 'Own Tempo']",190,Espurr,677,psychic,,0
+"['Keen Eye', 'Infiltrator', 'Prankster', 'Competitive']",75,Meowstic,678,psychic,,0
+['No Guard'],180,Honedge,679,steel,ghost,0
+['No Guard'],90,Doublade,680,steel,ghost,0
+['Stance Change'],45,Aegislash,681,steel,ghost,0
+"['Healer', 'Aroma Veil']",200,Spritzee,682,fairy,,0
+"['Healer', 'Aroma Veil']",140,Aromatisse,683,fairy,,0
+"['Sweet Veil', 'Unburden']",200,Swirlix,684,fairy,,0
+"['Sweet Veil', 'Unburden']",140,Slurpuff,685,fairy,,0
+"['Contrary', 'Suction Cups', 'Infiltrator']",190,Inkay,686,dark,psychic,0
+"['Contrary', 'Suction Cups', 'Infiltrator']",80,Malamar,687,dark,psychic,0
+"['Tough Claws', 'Sniper', 'Pickpocket']",120,Binacle,688,rock,water,0
+"['Tough Claws', 'Sniper', 'Pickpocket']",45,Barbaracle,689,rock,water,0
+"['Poison Point', 'Poison Touch', 'Adaptability']",225,Skrelp,690,poison,water,0
+"['Poison Point', 'Poison Touch', 'Adaptability']",55,Dragalge,691,poison,dragon,0
+['Mega Launcher'],225,Clauncher,692,water,,0
+['Mega Launcher'],55,Clawitzer,693,water,,0
+"['Dry Skin', 'Sand Veil', 'Solar Power']",190,Helioptile,694,electric,normal,0
+"['Dry Skin', 'Sand Veil', 'Solar Power']",75,Heliolisk,695,electric,normal,0
+"['Strong Jaw', 'Sturdy']",45,Tyrunt,696,rock,dragon,0
+"['Strong Jaw', 'Rock Head']",45,Tyrantrum,697,rock,dragon,0
+"['Refrigerate', 'Snow Warning']",45,Amaura,698,rock,ice,0
+"['Refrigerate', 'Snow Warning']",45,Aurorus,699,rock,ice,0
+"['Cute Charm', 'Pixilate']",45,Sylveon,700,fairy,,0
+"['Limber', 'Unburden', 'Mold Breaker']",100,Hawlucha,701,fighting,flying,0
+"['Cheek Pouch', 'Pickup', 'Plus']",180,Dedenne,702,electric,fairy,0
+"['Clear Body', 'Sturdy']",60,Carbink,703,rock,fairy,0
+"['Sap Sipper', 'Hydration', 'Gooey']",45,Goomy,704,dragon,,0
+"['Sap Sipper', 'Hydration', 'Gooey']",45,Sliggoo,705,dragon,,0
+"['Sap Sipper', 'Hydration', 'Gooey']",45,Goodra,706,dragon,,0
+"['Prankster', 'Magician']",75,Klefki,707,steel,fairy,0
+"['Natural Cure', 'Frisk', 'Harvest']",120,Phantump,708,ghost,grass,0
+"['Natural Cure', 'Frisk', 'Harvest']",60,Trevenant,709,ghost,grass,0
+"['Pickup', 'Frisk', 'Insomnia']",120,Pumpkaboo,710,ghost,grass,0
+"['Pickup', 'Frisk', 'Insomnia']",60,Gourgeist,711,ghost,grass,0
+"['Own Tempo', 'Ice Body', 'Sturdy']",190,Bergmite,712,ice,,0
+"['Own Tempo', 'Ice Body', 'Sturdy']",55,Avalugg,713,ice,,0
+"['Frisk', 'Infiltrator', 'Telepathy']",190,Noibat,714,flying,dragon,0
+"['Frisk', 'Infiltrator', 'Telepathy']",45,Noivern,715,flying,dragon,0
+['Fairy Aura'],45,Xerneas,716,fairy,,1
+['Dark Aura'],45,Yveltal,717,dark,flying,1
+"['Aura Break', 'Power Construct']",3,Zygarde,718,dragon,ground,1
+['Clear Body'],3,Diancie,719,rock,fairy,1
+['Magician'],3,Hoopa,720,psychic,ghost,1
+['Water Absorb'],3,Volcanion,721,fire,water,1
+"['Overgrow', 'Long Reach']",45,Rowlet,722,grass,flying,0
+"['Overgrow', 'Long Reach']",45,Dartrix,723,grass,flying,0
+"['Overgrow', 'Long Reach']",45,Decidueye,724,grass,ghost,0
+"['Blaze', 'Intimidate']",45,Litten,725,fire,,0
+"['Blaze', 'Intimidate']",45,Torracat,726,fire,,0
+"['Blaze', 'Intimidate']",45,Incineroar,727,fire,dark,0
+"['Torrent', 'Liquid Voice']",45,Popplio,728,water,,0
+"['Torrent', 'Liquid Voice']",45,Brionne,729,water,,0
+"['Torrent', 'Liquid Voice']",45,Primarina,730,water,fairy,0
+"['Keen Eye', 'Skill Link', 'Pickup']",255,Pikipek,731,normal,flying,0
+"['Keen Eye', 'Skill Link', 'Pickup']",120,Trumbeak,732,normal,flying,0
+"['Keen Eye', 'Skill Link', 'Sheer Force']",45,Toucannon,733,normal,flying,0
+"['Stakeout', 'Strong Jaw', 'Adaptability']",255,Yungoos,734,normal,,0
+"['Stakeout', 'Strong Jaw', 'Adaptability']",127,Gumshoos,735,normal,,0
+['Swarm'],255,Grubbin,736,bug,,0
+['Battery'],120,Charjabug,737,bug,electric,0
+['Levitate'],45,Vikavolt,738,bug,electric,0
+"['Hyper Cutter', 'Iron Fist', 'Anger Point']",225,Crabrawler,739,fighting,,0
+"['Hyper Cutter', 'Iron Fist', 'Anger Point']",60,Crabominable,740,fighting,ice,0
+['Dancer'],45,Oricorio,741,fire,flying,0
+"['Honey Gather', 'Shield Dust', 'Sweet Veil']",190,Cutiefly,742,bug,fairy,0
+"['Honey Gather', 'Shield Dust', 'Sweet Veil']",75,Ribombee,743,bug,fairy,0
+"['Keen Eye', 'Vital Spirit', 'Steadfast']",190,Rockruff,744,rock,,0
+"['Keen Eye', 'Sand Rush', 'Steadfast', 'Keen Eye', 'Vital Spirit', 'No Guard']",90,Lycanroc,745,rock,,0
+['Schooling'],60,Wishiwashi,746,water,,0
+"['Merciless', 'Limber', 'Regenerator']",190,Mareanie,747,poison,water,0
+"['Merciless', 'Limber', 'Regenerator']",75,Toxapex,748,poison,water,0
+"['Own Tempo', 'Stamina', 'Inner Focus']",190,Mudbray,749,ground,,0
+"['Own Tempo', 'Stamina', 'Inner Focus']",60,Mudsdale,750,ground,,0
+"['Water Bubble', 'Water Absorb']",200,Dewpider,751,water,bug,0
+"['Water Bubble', 'Water Absorb']",100,Araquanid,752,water,bug,0
+"['Leaf Guard', 'Contrary']",190,Fomantis,753,grass,,0
+"['Leaf Guard', 'Contrary']",75,Lurantis,754,grass,,0
+"['Illuminate', 'Effect Spore', 'Rain Dish']",190,Morelull,755,grass,fairy,0
+"['Illuminate', 'Effect Spore', 'Rain Dish']",75,Shiinotic,756,grass,fairy,0
+"['Corrosion', 'Oblivious']",120,Salandit,757,poison,fire,0
+"['Corrosion', 'Oblivious']",45,Salazzle,758,poison,fire,0
+"['Fluffy', 'Klutz', 'Cute Charm']",140,Stufful,759,normal,fighting,0
+"['Fluffy', 'Klutz', 'Unnerve']",70,Bewear,760,normal,fighting,0
+"['Leaf Guard', 'Oblivious', 'Sweet Veil']",235,Bounsweet,761,grass,,0
+"['Leaf Guard', 'Oblivious', 'Sweet Veil']",120,Steenee,762,grass,,0
+"['Leaf Guard', 'Queenly Majesty', 'Sweet Veil']",45,Tsareena,763,grass,,0
+"['Flower Veil', 'Triage', 'Natural Cure']",60,Comfey,764,fairy,,0
+"['Inner Focus', 'Telepathy', 'Symbiosis']",45,Oranguru,765,normal,psychic,0
+"['Receiver', 'Defiant']",45,Passimian,766,fighting,,0
+['Wimp Out'],90,Wimpod,767,bug,water,0
+['Emergency Exit'],45,Golisopod,768,bug,water,0
+"['Water Compaction', 'Sand Veil']",140,Sandygast,769,ghost,ground,0
+"['Water Compaction', 'Sand Veil']",60,Palossand,770,ghost,ground,0
+"['Innards Out', 'Unaware']",60,Pyukumuku,771,water,,0
+['Battle Armor'],3,Type: Null,772,normal,,0
+['RKS System'],3,Silvally,773,normal,,0
+['Shields Down'],30,Minior,774,rock,flying,0
+['Comatose'],45,Komala,775,normal,,0
+['Shell Armor'],70,Turtonator,776,fire,dragon,0
+"['Iron Barbs', 'Lightningrod', 'Sturdy']",180,Togedemaru,777,electric,steel,0
+['Disguise'],45,Mimikyu,778,ghost,fairy,0
+"['Dazzling', 'Strong Jaw', 'Wonder Skin ']",80,Bruxish,779,water,psychic,0
+"['Berserk', 'Sap Sipper', 'Cloud Nine']",70,Drampa,780,normal,dragon,0
+['Steelworker'],25,Dhelmise,781,ghost,grass,0
+"['Bulletproof', 'Soundproof', 'Overcoat']",45,Jangmo-o,782,dragon,,0
+"['Bulletproof', 'Soundproof', 'Overcoat']",45,Hakamo-o,783,dragon,fighting,0
+"['Bulletproof', 'Soundproof', 'Overcoat']",45,Kommo-o,784,dragon,fighting,0
+"['Electric Surge', 'Telepathy']",3,Tapu Koko,785,electric,fairy,1
+"['Psychic Surge', 'Telepathy']",3,Tapu Lele,786,psychic,fairy,1
+"['Grassy Surge', 'Telepathy']",3,Tapu Bulu,787,grass,fairy,1
+"['Misty Surge', 'Telepathy']",3,Tapu Fini,788,water,fairy,1
+['Unaware'],45,Cosmog,789,psychic,,1
+['Sturdy'],45,Cosmoem,790,psychic,,1
+['Full Metal Body'],45,Solgaleo,791,psychic,steel,1
+['Shadow Shield'],45,Lunala,792,psychic,ghost,1
+['Beast Boost'],45,Nihilego,793,rock,poison,1
+['Beast Boost'],25,Buzzwole,794,bug,fighting,1
+['Beast Boost'],255,Pheromosa,795,bug,fighting,1
+['Beast Boost'],30,Xurkitree,796,electric,,1
+['Beast Boost'],25,Celesteela,797,steel,flying,1
+['Beast Boost'],255,Kartana,798,grass,steel,1
+['Beast Boost'],15,Guzzlord,799,dark,dragon,1
+['Prism Armor'],3,Necrozma,800,psychic,,1
+['Soul-Heart'],3,Magearna,801,steel,fairy,1
