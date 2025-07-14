@@ -1,300 +1,300 @@
-﻿pokedex_number,name,rarity,abilities,type1,type2,is_legendary
-1,Bulbasaur,0.450000005,"['Overgrow', 'Chlorophyll']",grass,poison,0
-2,Ivysaur,0.450000005,"['Overgrow', 'Chlorophyll']",grass,poison,0
-3,Venusaur,0.450000005,"['Overgrow', 'Chlorophyll']",grass,poison,0
-4,Charmander,0.450000005,"['Blaze', 'Solar Power']",fire,,0
-5,Charmeleon,0.450000005,"['Blaze', 'Solar Power']",fire,,0
-6,Charizard,0.450000005,"['Blaze', 'Solar Power']",fire,flying,0
-7,Squirtle,0.450000005,"['Torrent', 'Rain Dish']",water,,0
-8,Wartortle,0.450000005,"['Torrent', 'Rain Dish']",water,,0
-9,Blastoise,0.450000005,"['Torrent', 'Rain Dish']",water,,0
-10,Caterpie,2.549999758,"['Shield Dust', 'Run Away']",bug,,0
-11,Metapod,1.200000048,['Shed Skin'],bug,,0
-12,Butterfree,0.450000005,"['Compoundeyes', 'Tinted Lens']",bug,flying,0
-13,Weedle,2.549999758,"['Shield Dust', 'Run Away']",bug,poison,0
-14,Kakuna,1.200000048,['Shed Skin'],bug,poison,0
-15,Beedrill,0.450000005,"['Swarm', 'Sniper']",bug,poison,0
-16,Pidgey,2.549999758,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",normal,flying,0
-17,Pidgeotto,1.200000048,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",normal,flying,0
-18,Pidgeot,0.450000005,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",normal,flying,0
-19,Rattata,2.549999758,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",normal,dark,0
-20,Raticate,1.269999959,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",normal,dark,0
-21,Spearow,2.549999758,"['Keen Eye', 'Sniper']",normal,flying,0
-22,Fearow,0.900000009,"['Keen Eye', 'Sniper']",normal,flying,0
-23,Ekans,2.549999758,"['Intimidate', 'Shed Skin', 'Unnerve']",poison,,0
-24,Arbok,0.900000009,"['Intimidate', 'Shed Skin', 'Unnerve']",poison,,0
-25,Pikachu,1.899999962,"['Static', 'Lightningrod']",electric,,0
-26,Raichu,0.750000019,"['Static', 'Lightningrod', 'Surge Surfer']",electric,electric,0
-27,Sandshrew,2.549999758,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",ground,ice,0
-28,Sandslash,0.900000009,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",ground,ice,0
-29,Nidoranâ™€,2.350000082,"['Poison Point', 'Rivalry', 'Hustle']",poison,,0
-30,Nidorina,1.200000048,"['Poison Point', 'Rivalry', 'Hustle']",poison,,0
-31,Nidoqueen,0.450000005,"['Poison Point', 'Rivalry', 'Sheer Force']",poison,ground,0
-32,Nidoranâ™‚,2.350000082,"['Poison Point', 'Rivalry', 'Hustle']",poison,,0
-33,Nidorino,1.200000048,"['Poison Point', 'Rivalry', 'Hustle']",poison,,0
-34,Nidoking,0.450000005,"['Poison Point', 'Rivalry', 'Sheer Force']",poison,ground,0
-35,Clefairy,1.499999925,"['Cute Charm', 'Magic Guard', 'Friend Guard']",fairy,,0
-36,Clefable,0.25,"['Cute Charm', 'Magic Guard', 'Unaware']",fairy,,0
-37,Vulpix,1.899999962,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",fire,ice,0
-38,Ninetales,0.750000019,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",fire,ice,0
-39,Jigglypuff,1.699999983,"['Cute Charm', 'Competitive', 'Friend Guard']",normal,fairy,0
-40,Wigglytuff,0.5,"['Cute Charm', 'Competitive', 'Frisk']",normal,fairy,0
-41,Zubat,2.549999758,"['Inner Focus', 'Infiltrator']",poison,flying,0
-42,Golbat,0.900000009,"['Inner Focus', 'Infiltrator']",poison,flying,0
-43,Oddish,2.549999758,"['Chlorophyll', 'Run Away']",grass,poison,0
-44,Gloom,1.200000048,"['Chlorophyll', 'Stench']",grass,poison,0
-45,Vileplume,0.450000005,"['Chlorophyll', 'Effect Spore']",grass,poison,0
-46,Paras,1.899999962,"['Effect Spore', 'Dry Skin', 'Damp']",bug,grass,0
-47,Parasect,0.750000019,"['Effect Spore', 'Dry Skin', 'Damp']",bug,grass,0
-48,Venonat,1.899999962,"['Compoundeyes', 'Tinted Lens', 'Run Away']",bug,poison,0
-49,Venomoth,0.750000019,"['Shield Dust', 'Tinted Lens', 'Wonder Skin ']",bug,poison,0
-50,Diglett,2.549999758,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",ground,ground,0
-51,Dugtrio,0.5,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",ground,ground,0
-52,Meowth,2.549999758,"['Pickup', 'Technician', 'Unnerve', 'Pickup', 'Technician', 'Rattled']",normal,dark,0
-53,Persian,0.900000009,"['Limber', 'Technician', 'Unnerve', 'Fur Coat', 'Technician', 'Rattled']",normal,dark,0
-54,Psyduck,1.899999962,"['Damp', 'Cloud Nine', 'Swift Swim']",water,,0
-55,Golduck,0.750000019,"['Damp', 'Cloud Nine', 'Swift Swim']",water,,0
-56,Mankey,1.899999962,"['Vital Spirit', 'Anger Point', 'Defiant']",fighting,,0
-57,Primeape,0.750000019,"['Vital Spirit', 'Anger Point', 'Defiant']",fighting,,0
-58,Growlithe,1.899999962,"['Intimidate', 'Flash Fire', 'Justified']",fire,,0
-59,Arcanine,0.750000019,"['Intimidate', 'Flash Fire', 'Justified']",fire,,0
-60,Poliwag,2.549999758,"['Water Absorb', 'Damp', 'Swift Swim']",water,,0
-61,Poliwhirl,1.200000048,"['Water Absorb', 'Damp', 'Swift Swim']",water,,0
-62,Poliwrath,0.450000005,"['Water Absorb', 'Damp', 'Swift Swim']",water,fighting,0
-63,Abra,2,"['Synchronize', 'Inner Focus', 'Magic Guard']",psychic,,0
-64,Kadabra,1,"['Synchronize', 'Inner Focus', 'Magic Guard']",psychic,,0
-65,Alakazam,0.5,"['Synchronize', 'Inner Focus', 'Magic Guard']",psychic,,0
-66,Machop,1.799999856,"['Guts', 'No Guard', 'Steadfast']",fighting,,0
-67,Machoke,0.900000009,"['Guts', 'No Guard', 'Steadfast']",fighting,,0
-68,Machamp,0.450000005,"['Guts', 'No Guard', 'Steadfast']",fighting,,0
-69,Bellsprout,2.549999758,"['Chlorophyll', 'Gluttony']",grass,poison,0
-70,Weepinbell,1.200000048,"['Chlorophyll', 'Gluttony']",grass,poison,0
-71,Victreebel,0.450000005,"['Chlorophyll', 'Gluttony']",grass,poison,0
-72,Tentacool,1.899999962,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",water,poison,0
-73,Tentacruel,0.599999988,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",water,poison,0
-74,Geodude,2.549999758,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",rock,ground,0
-75,Graveler,1.200000048,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",rock,ground,0
-76,Golem,0.450000005,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",rock,ground,0
-77,Ponyta,1.899999962,"['Run Away', 'Flash Fire', 'Flame Body']",fire,,0
-78,Rapidash,0.599999988,"['Run Away', 'Flash Fire', 'Flame Body']",fire,,0
-79,Slowpoke,1.899999962,"['Oblivious', 'Own Tempo', 'Regenerator']",water,psychic,0
-80,Slowbro,0.750000019,"['Oblivious', 'Own Tempo', 'Regenerator']",water,psychic,0
-81,Magnemite,1.899999962,"['Magnet Pull', 'Sturdy', 'Analytic']",electric,steel,0
-82,Magneton,0.599999988,"['Magnet Pull', 'Sturdy', 'Analytic']",electric,steel,0
-83,Farfetch'd,0.450000005,"['Keen Eye', 'Inner Focus', 'Defiant']",normal,flying,0
-84,Doduo,1.899999962,"['Run Away', 'Early Bird', 'Tangled Feet']",normal,flying,0
-85,Dodrio,0.450000005,"['Run Away', 'Early Bird', 'Tangled Feet']",normal,flying,0
-86,Seel,1.899999962,"['Thick Fat', 'Hydration', 'Ice Body']",water,,0
-87,Dewgong,0.750000019,"['Thick Fat', 'Hydration', 'Ice Body']",water,ice,0
-88,Grimer,1.899999962,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",poison,poison,0
-89,Muk,0.750000019,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",poison,poison,0
-90,Shellder,1.899999962,"['Shell Armor', 'Skill Link', 'Overcoat']",water,,0
-91,Cloyster,0.599999988,"['Shell Armor', 'Skill Link', 'Overcoat']",water,ice,0
-92,Gastly,1.899999962,['Levitate'],ghost,poison,0
-93,Haunter,0.900000009,['Levitate'],ghost,poison,0
-94,Gengar,0.450000005,['Cursed Body'],ghost,poison,0
-95,Onix,0.450000005,"['Rock Head', 'Sturdy', 'Weak Armor']",rock,ground,0
-96,Drowzee,1.899999962,"['Insomnia', 'Forewarn', 'Inner Focus']",psychic,,0
-97,Hypno,0.750000019,"['Insomnia', 'Forewarn', 'Inner Focus']",psychic,,0
-98,Krabby,2.250000225,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",water,,0
-99,Kingler,0.599999988,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",water,,0
-100,Voltorb,1.899999962,"['Soundproof', 'Static', 'Aftermath']",electric,,0
-101,Electrode,0.599999988,"['Soundproof', 'Static', 'Aftermath']",electric,,0
-102,Exeggcute,0.900000009,"['Chlorophyll', 'Harvest']",grass,psychic,0
-103,Exeggutor,0.450000005,"['Chlorophyll', 'Harvest', 'Frisk', 'Harvest']",grass,psychic,0
-104,Cubone,1.899999962,"['Rock Head', 'Lightningrod', 'Battle Armor']",ground,,0
-105,Marowak,0.750000019,"['Rock Head', 'Lightningrod', 'Battle Armor', 'Cursed Body', 'Lightningrod', 'Rock Head']",ground,fire,0
-106,Hitmonlee,0.450000005,"['Limber', 'Reckless', 'Unburden']",fighting,,0
-107,Hitmonchan,0.450000005,"['Keen Eye', 'Iron Fist', 'Inner Focus']",fighting,,0
-108,Lickitung,0.450000005,"['Own Tempo', 'Oblivious', 'Cloud Nine']",normal,,0
-109,Koffing,1.899999962,['Levitate'],poison,,0
-110,Weezing,0.599999988,['Levitate'],poison,,0
-111,Rhyhorn,1.200000048,"['Lightningrod', 'Rock Head', 'Reckless']",ground,rock,0
-112,Rhydon,0.599999988,"['Lightningrod', 'Rock Head', 'Reckless']",ground,rock,0
-113,Chansey,0.300000003,"['Natural Cure', 'Serene Grace', 'Healer']",normal,,0
-114,Tangela,0.450000005,"['Chlorophyll', 'Leaf Guard', 'Regenerator']",grass,,0
-115,Kangaskhan,0.450000005,"['Early Bird', 'Scrappy', 'Inner Focus']",normal,,0
-116,Horsea,2.250000225,"['Swift Swim', 'Sniper', 'Damp']",water,,0
-117,Seadra,0.750000019,"['Poison Point', 'Sniper', 'Damp']",water,,0
-118,Goldeen,2.250000225,"['Swift Swim', 'Water Veil', 'Lightningrod']",water,,0
-119,Seaking,0.599999988,"['Swift Swim', 'Water Veil', 'Lightningrod']",water,,0
-120,Staryu,2.250000225,"['Illuminate', 'Natural Cure', 'Analytic']",water,,0
-121,Starmie,0.599999988,"['Illuminate', 'Natural Cure', 'Analytic']",water,psychic,0
-122,Mr. Mime,0.450000005,"['Soundproof', 'Filter', 'Technician']",psychic,fairy,0
-123,Scyther,0.450000005,"['Swarm', 'Technician', 'Steadfast']",bug,flying,0
-124,Jynx,0.450000005,"['Oblivious', 'Forewarn', 'Dry Skin']",ice,psychic,0
-125,Electabuzz,0.450000005,"['Static', 'Vital Spirit']",electric,,0
-126,Magmar,0.450000005,"['Flame Body', 'Vital Spirit']",fire,,0
-127,Pinsir,0.450000005,"['Hyper Cutter', 'Mold Breaker', 'Moxie']",bug,,0
-128,Tauros,0.450000005,"['Intimidate', 'Anger Point', 'Sheer Force']",normal,,0
-129,Magikarp,2.549999758,"['Swift Swim', 'Rattled']",water,,0
-130,Gyarados,0.450000005,"['Intimidate', 'Moxie']",water,flying,0
-131,Lapras,0.450000005,"['Water Absorb', 'Shell Armor', 'Hydration']",water,ice,0
-132,Ditto,0.349999995,"['Limber', 'Imposter']",normal,,0
-133,Eevee,0.450000005,"['Run Away', 'Adaptability', 'Anticipation']",normal,,0
-134,Vaporeon,0.450000005,"['Water Absorb', 'Hydration']",water,,0
-135,Jolteon,0.450000005,"['Volt Absorb', 'Quick Feet']",electric,,0
-136,Flareon,0.450000005,"['Flash Fire', 'Guts']",fire,,0
-137,Porygon,0.450000005,"['Trace', 'Download', 'Analytic']",normal,,0
-138,Omanyte,0.450000005,"['Swift Swim', 'Shell Armor', 'Weak Armor']",rock,water,0
-139,Omastar,0.450000005,"['Swift Swim', 'Shell Armor', 'Weak Armor']",rock,water,0
-140,Kabuto,0.450000005,"['Swift Swim', 'Battle Armor', 'Weak Armor']",rock,water,0
-141,Kabutops,0.450000005,"['Swift Swim', 'Battle Armor', 'Weak Armor']",rock,water,0
-142,Aerodactyl,0.450000005,"['Rock Head', 'Pressure', 'Unnerve']",rock,flying,0
-143,Snorlax,0.25,"['Immunity', 'Thick Fat', 'Gluttony']",normal,,0
-144,Articuno,0.03,"['Pressure', 'Snow Cloak']",ice,flying,1
-145,Zapdos,0.03,"['Pressure', 'Static']",electric,flying,1
-146,Moltres,0.03,"['Pressure', 'Flame Body']",fire,flying,1
-147,Dratini,0.450000005,"['Shed Skin', 'Marvel Scale']",dragon,,0
-148,Dragonair,0.450000005,"['Shed Skin', 'Marvel Scale']",dragon,,0
-149,Dragonite,0.450000005,"['Inner Focus', 'Multiscale']",dragon,flying,0
-150,Mewtwo,0.03,"['Pressure', 'Unnerve']",psychic,,1
-151,Mew,0.450000005,['Synchronize'],psychic,,1
-152,Chikorita,0.450000005,"['Overgrow', 'Leaf Guard']",grass,,0
-153,Bayleef,0.450000005,"['Overgrow', 'Leaf Guard']",grass,,0
-154,Meganium,0.450000005,"['Overgrow', 'Leaf Guard']",grass,,0
-155,Cyndaquil,0.450000005,"['Blaze', 'Flash Fire']",fire,,0
-156,Quilava,0.450000005,"['Blaze', 'Flash Fire']",fire,,0
-157,Typhlosion,0.450000005,"['Blaze', 'Flash Fire']",fire,,0
-158,Totodile,0.450000005,"['Torrent', 'Sheer Force']",water,,0
-159,Croconaw,0.450000005,"['Torrent', 'Sheer Force']",water,,0
-160,Feraligatr,0.450000005,"['Torrent', 'Sheer Force']",water,,0
-161,Sentret,2.549999758,"['Run Away', 'Keen Eye', 'Frisk']",normal,,0
-162,Furret,0.900000009,"['Run Away', 'Keen Eye', 'Frisk']",normal,,0
-163,Hoothoot,2.549999758,"['Insomnia', 'Keen Eye', 'Tinted Lens']",normal,flying,0
-164,Noctowl,0.900000009,"['Insomnia', 'Keen Eye', 'Tinted Lens']",normal,flying,0
-165,Ledyba,2.549999758,"['Swarm', 'Early Bird', 'Rattled']",bug,flying,0
-166,Ledian,0.900000009,"['Swarm', 'Early Bird', 'Iron Fist']",bug,flying,0
-167,Spinarak,2.549999758,"['Swarm', 'Insomnia', 'Sniper']",bug,poison,0
-168,Ariados,0.900000009,"['Swarm', 'Insomnia', 'Sniper']",bug,poison,0
-169,Crobat,0.900000009,"['Inner Focus', 'Infiltrator']",poison,flying,0
-170,Chinchou,1.899999962,"['Volt Absorb', 'Illuminate', 'Water Absorb']",water,electric,0
-171,Lanturn,0.750000019,"['Volt Absorb', 'Illuminate', 'Water Absorb']",water,electric,0
-172,Pichu,1.899999962,"['Static', 'Lightningrod']",electric,,0
-173,Cleffa,1.499999925,"['Cute Charm', 'Magic Guard', 'Friend Guard']",fairy,,0
-174,Igglybuff,1.699999983,"['Cute Charm', 'Competitive', 'Friend Guard']",normal,fairy,0
-175,Togepi,1.899999962,"['Hustle', 'Serene Grace', 'Super Luck']",fairy,,0
-176,Togetic,0.750000019,"['Hustle', 'Serene Grace', 'Super Luck']",fairy,flying,0
-177,Natu,1.899999962,"['Synchronize', 'Early Bird', 'Magic Bounce']",psychic,flying,0
-178,Xatu,0.750000019,"['Synchronize', 'Early Bird', 'Magic Bounce']",psychic,flying,0
-179,Mareep,2.350000082,"['Static', 'Plus']",electric,,0
-180,Flaaffy,1.200000048,"['Static', 'Plus']",electric,,0
-181,Ampharos,0.450000005,"['Static', 'Plus']",electric,,0
-182,Bellossom,0.450000005,"['Chlorophyll', 'Healer']",grass,,0
-183,Marill,1.899999962,"['Thick Fat', 'Huge Power', 'Sap Sipper']",water,fairy,0
-184,Azumarill,0.750000019,"['Thick Fat', 'Huge Power', 'Sap Sipper']",water,fairy,0
-185,Sudowoodo,0.650000016,"['Sturdy', 'Rock Head', 'Rattled']",rock,,0
-186,Politoed,0.450000005,"['Water Absorb', 'Damp', 'Drizzle']",water,,0
-187,Hoppip,2.549999758,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",grass,flying,0
-188,Skiploom,1.200000048,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",grass,flying,0
-189,Jumpluff,0.450000005,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",grass,flying,0
-190,Aipom,0.450000005,"['Run Away', 'Pickup', 'Skill Link']",normal,,0
-191,Sunkern,2.350000082,"['Chlorophyll', 'Solar Power', 'Early Bird']",grass,,0
-192,Sunflora,1.200000048,"['Chlorophyll', 'Solar Power', 'Early Bird']",grass,,0
-193,Yanma,0.750000019,"['Speed Boost', 'Compoundeyes', 'Frisk']",bug,flying,0
-194,Wooper,2.549999758,"['Damp', 'Water Absorb', 'Unaware']",water,ground,0
-195,Quagsire,0.900000009,"['Damp', 'Water Absorb', 'Unaware']",water,ground,0
-196,Espeon,0.450000005,"['Synchronize', 'Magic Bounce']",psychic,,0
-197,Umbreon,0.450000005,"['Synchronize', 'Inner Focus']",dark,,0
-198,Murkrow,0.300000003,"['Insomnia', 'Super Luck', 'Prankster']",dark,flying,0
-199,Slowking,0.700000014,"['Oblivious', 'Own Tempo', 'Regenerator']",water,psychic,0
-200,Misdreavus,0.450000005,['Levitate'],ghost,,0
-201,Unown,2.250000225,['Levitate'],psychic,,0
-202,Wobbuffet,0.450000005,"['Shadow Tag', 'Telepathy']",psychic,,0
-203,Girafarig,0.599999988,"['Inner Focus', 'Early Bird', 'Sap Sipper']",normal,psychic,0
-204,Pineco,1.899999962,"['Sturdy', 'Overcoat']",bug,,0
-205,Forretress,0.750000019,"['Sturdy', 'Overcoat']",bug,steel,0
-206,Dunsparce,1.899999962,"['Serene Grace', 'Run Away', 'Rattled']",normal,,0
-207,Gligar,0.599999988,"['Hyper Cutter', 'Sand Veil', 'Immunity']",ground,flying,0
-208,Steelix,0.25,"['Rock Head', 'Sturdy', 'Sheer Force']",steel,ground,0
-209,Snubbull,1.899999962,"['Intimidate', 'Run Away', 'Rattled']",fairy,,0
-210,Granbull,0.750000019,"['Intimidate', 'Quick Feet', 'Rattled']",fairy,,0
-211,Qwilfish,0.450000005,"['Poison Point', 'Swift Swim', 'Intimidate']",water,poison,0
-212,Scizor,0.25,"['Swarm', 'Technician', 'Light Metal']",bug,steel,0
-213,Shuckle,1.899999962,"['Sturdy', 'Gluttony', 'Contrary']",bug,rock,0
-214,Heracross,0.450000005,"['Swarm', 'Guts', 'Moxie']",bug,fighting,0
-215,Sneasel,0.599999988,"['Inner Focus', 'Keen Eye', 'Pickpocket']",dark,ice,0
-216,Teddiursa,1.200000048,"['Pickup', 'Quick Feet', 'Honey Gather']",normal,,0
-217,Ursaring,0.599999988,"['Guts', 'Quick Feet', 'Unnerve']",normal,,0
-218,Slugma,1.899999962,"['Magma Armor', 'Flame Body', 'Weak Armor']",fire,,0
-219,Magcargo,0.750000019,"['Magma Armor', 'Flame Body', 'Weak Armor']",fire,rock,0
-220,Swinub,2.250000225,"['Oblivious', 'Snow Cloak', 'Thick Fat']",ice,ground,0
-221,Piloswine,0.750000019,"['Oblivious', 'Snow Cloak', 'Thick Fat']",ice,ground,0
-222,Corsola,0.599999988,"['Hustle', 'Natural Cure', 'Regenerator']",water,rock,0
-223,Remoraid,1.899999962,"['Hustle', 'Sniper', 'Moody']",water,,0
-224,Octillery,0.750000019,"['Suction Cups', 'Sniper', 'Moody']",water,,0
-225,Delibird,0.450000005,"['Vital Spirit', 'Hustle', 'Insomnia']",ice,flying,0
-226,Mantine,0.25,"['Swift Swim', 'Water Absorb', 'Water Veil']",water,flying,0
-227,Skarmory,0.25,"['Keen Eye', 'Sturdy', 'Weak Armor']",steel,flying,0
-228,Houndour,1.200000048,"['Early Bird', 'Flash Fire', 'Unnerve']",dark,fire,0
-229,Houndoom,0.450000005,"['Early Bird', 'Flash Fire', 'Unnerve']",dark,fire,0
-230,Kingdra,0.450000005,"['Swift Swim', 'Sniper', 'Damp']",water,dragon,0
-231,Phanpy,1.200000048,"['Pickup', 'Sand Veil']",ground,,0
-232,Donphan,0.599999988,"['Sturdy', 'Sand Veil']",ground,,0
-233,Porygon2,0.450000005,"['Trace', 'Download', 'Analytic']",normal,,0
-234,Stantler,0.450000005,"['Intimidate', 'Frisk', 'Sap Sipper']",normal,,0
-235,Smeargle,0.450000005,"['Own Tempo', 'Technician', 'Moody']",normal,,0
-236,Tyrogue,0.750000019,"['Guts', 'Steadfast', 'Vital Spirit']",fighting,,0
-237,Hitmontop,0.450000005,"['Intimidate', 'Technician', 'Steadfast']",fighting,,0
-238,Smoochum,0.450000005,"['Oblivious', 'Forewarn', 'Hydration']",ice,psychic,0
-239,Elekid,0.450000005,"['Static', 'Vital Spirit']",electric,,0
-240,Magby,0.450000005,"['Flame Body', 'Vital Spirit']",fire,,0
-241,Miltank,0.450000005,"['Thick Fat', 'Scrappy', 'Sap Sipper']",normal,,0
-242,Blissey,0.300000003,"['Natural Cure', 'Serene Grace', 'Healer']",normal,,0
-243,Raikou,0.03,"['Pressure', 'Inner Focus']",electric,,1
-244,Entei,0.03,"['Pressure', 'Inner Focus']",fire,,1
-245,Suicune,0.03,"['Pressure', 'Inner Focus']",water,,1
-246,Larvitar,0.450000005,"['Guts', 'Sand Veil']",rock,ground,0
-247,Pupitar,0.450000005,['Shed Skin'],rock,ground,0
-248,Tyranitar,0.450000005,"['Sand Stream', 'Unnerve']",rock,dark,0
-249,Lugia,0.03,"['Pressure', 'Multiscale']",psychic,flying,1
-250,Ho-Oh,0.03,"['Pressure', 'Regenerator']",fire,flying,1
-251,Celebi,0.450000005,['Natural Cure'],psychic,grass,1
-252,Treecko,0.450000005,"['Overgrow', 'Unburden']",grass,,0
-253,Grovyle,0.450000005,"['Overgrow', 'Unburden']",grass,,0
-254,Sceptile,0.450000005,"['Overgrow', 'Unburden']",grass,,0
-255,Torchic,0.450000005,"['Blaze', 'Speed Boost']",fire,,0
-256,Combusken,0.450000005,"['Blaze', 'Speed Boost']",fire,fighting,0
-257,Blaziken,0.450000005,"['Blaze', 'Speed Boost']",fire,fighting,0
-258,Mudkip,0.450000005,"['Torrent', 'Damp']",water,,0
-259,Marshtomp,0.450000005,"['Torrent', 'Damp']",water,ground,0
-260,Swampert,0.450000005,"['Torrent', 'Damp']",water,ground,0
-261,Poochyena,2.549999758,"['Run Away', 'Quick Feet', 'Rattled']",dark,,0
-262,Mightyena,1.269999959,"['Intimidate', 'Quick Feet', 'Moxie']",dark,,0
-263,Zigzagoon,2.549999758,"['Pickup', 'Gluttony', 'Quick Feet']",normal,,0
-264,Linoone,0.900000009,"['Pickup', 'Gluttony', 'Quick Feet']",normal,,0
-265,Wurmple,2.549999758,"['Shield Dust', 'Run Away']",bug,,0
-266,Silcoon,1.200000048,['Shed Skin'],bug,,0
-267,Beautifly,0.450000005,"['Swarm', 'Rivalry']",bug,flying,0
-268,Cascoon,1.200000048,['Shed Skin'],bug,,0
-269,Dustox,0.450000005,"['Shield Dust', 'Compoundeyes']",bug,poison,0
-270,Lotad,2.549999758,"['Swift Swim', 'Rain Dish', 'Own Tempo']",water,grass,0
-271,Lombre,1.200000048,"['Swift Swim', 'Rain Dish', 'Own Tempo']",water,grass,0
-272,Ludicolo,0.450000005,"['Swift Swim', 'Rain Dish', 'Own Tempo']",water,grass,0
-273,Seedot,2.549999758,"['Chlorophyll', 'Early Bird', 'Pickpocket']",grass,,0
-274,Nuzleaf,1.200000048,"['Chlorophyll', 'Early Bird', 'Pickpocket']",grass,dark,0
-275,Shiftry,0.450000005,"['Chlorophyll', 'Early Bird', 'Pickpocket']",grass,dark,0
-276,Taillow,2,"['Guts', 'Scrappy']",normal,flying,0
-277,Swellow,0.450000005,"['Guts', 'Scrappy']",normal,flying,0
-278,Wingull,1.899999962,"['Keen Eye', 'Hydration', 'Rain Dish']",water,flying,0
-279,Pelipper,0.450000005,"['Keen Eye', 'Drizzle', 'Rain Dish']",water,flying,0
-280,Ralts,2.350000082,"['Synchronize', 'Trace', 'Telepathy']",psychic,fairy,0
-281,Kirlia,1.200000048,"['Synchronize', 'Trace', 'Telepathy']",psychic,fairy,0
-282,Gardevoir,0.450000005,"['Synchronize', 'Trace', 'Telepathy']",psychic,fairy,0
-283,Surskit,2,"['Swift Swim', 'Rain Dish']",bug,water,0
-284,Masquerain,0.750000019,"['Intimidate', 'Unnerve']",bug,flying,0
-285,Shroomish,2.549999758,"['Effect Spore', 'Poison Heal', 'Quick Feet']",grass,,0
-286,Breloom,0.900000009,"['Effect Spore', 'Poison Heal', 'Technician']",grass,fighting,0
-287,Slakoth,2.549999758,['Truant'],normal,,0
-288,Vigoroth,1.200000048,['Vital Spirit'],normal,,0
-289,Slaking,0.450000005,['Truant'],normal,,0
-290,Nincada,2.549999758,"['Compoundeyes', 'Run Away']",bug,ground,0
-291,Ninjask,1.200000048,"['Speed Boost', 'Infiltrator']",bug,flying,0
-292,Shedinja,0.450000005,['Wonder Guard'],bug,ghost,0
-293,Whismur,1.899999962,"['Soundproof', 'Rattled']",normal,,0
-294,Loudred,1.200000048,"['Soundproof', 'Scrappy']",normal,,0
-295,Exploud,0.450000005,"['Soundproof', 'Scrappy']",normal,,0
-296,Makuhita,1.799999856,"['Thick Fat', 'Guts', 'Sheer Force']",fighting,,0
-297,Hariyama,2,"['Thick Fat', 'Guts', 'Sheer Force']",fighting,,0
-298,Azurill,1.499999925,"['Thick Fat', 'Huge Power', 'Sap Sipper']",normal,fairy,0
-299,Nosepass,2.549999758,"['Sturdy', 'Magnet Pull', 'Sand Force']",rock,,0
+﻿pokedex_number,name,rarity
+1,Bulbasaur,0.450000005
+2,Ivysaur,0.450000005
+3,Venusaur,0.450000005
+4,Charmander,0.450000005
+5,Charmeleon,0.450000005
+6,Charizard,0.450000005
+7,Squirtle,0.450000005
+8,Wartortle,0.450000005
+9,Blastoise,0.450000005
+10,Caterpie,2.549999758
+11,Metapod,1.200000048
+12,Butterfree,0.450000005
+13,Weedle,2.549999758
+14,Kakuna,1.200000048
+15,Beedrill,0.450000005
+16,Pidgey,2.549999758
+17,Pidgeotto,1.200000048
+18,Pidgeot,0.450000005
+19,Rattata,2.549999758
+20,Raticate,1.269999959
+21,Spearow,2.549999758
+22,Fearow,0.900000009
+23,Ekans,2.549999758
+24,Arbok,0.900000009
+25,Pikachu,1.899999962
+26,Raichu,0.750000019
+27,Sandshrew,2.549999758
+28,Sandslash,0.900000009
+29,Nidoranâ™€,2.350000082
+30,Nidorina,1.200000048
+31,Nidoqueen,0.450000005
+32,Nidoranâ™‚,2.350000082
+33,Nidorino,1.200000048
+34,Nidoking,0.450000005
+35,Clefairy,1.499999925
+36,Clefable,0.25
+37,Vulpix,1.899999962
+38,Ninetales,0.750000019
+39,Jigglypuff,1.699999983
+40,Wigglytuff,0.5
+41,Zubat,2.549999758
+42,Golbat,0.900000009
+43,Oddish,2.549999758
+44,Gloom,1.200000048
+45,Vileplume,0.450000005
+46,Paras,1.899999962
+47,Parasect,0.750000019
+48,Venonat,1.899999962
+49,Venomoth,0.750000019
+50,Diglett,2.549999758
+51,Dugtrio,0.5
+52,Meowth,2.549999758
+53,Persian,0.900000009
+54,Psyduck,1.899999962
+55,Golduck,0.750000019
+56,Mankey,1.899999962
+57,Primeape,0.750000019
+58,Growlithe,1.899999962
+59,Arcanine,0.750000019
+60,Poliwag,2.549999758
+61,Poliwhirl,1.200000048
+62,Poliwrath,0.450000005
+63,Abra,2
+64,Kadabra,1
+65,Alakazam,0.5
+66,Machop,1.799999856
+67,Machoke,0.900000009
+68,Machamp,0.450000005
+69,Bellsprout,2.549999758
+70,Weepinbell,1.200000048
+71,Victreebel,0.450000005
+72,Tentacool,1.899999962
+73,Tentacruel,0.599999988
+74,Geodude,2.549999758
+75,Graveler,1.200000048
+76,Golem,0.450000005
+77,Ponyta,1.899999962
+78,Rapidash,0.599999988
+79,Slowpoke,1.899999962
+80,Slowbro,0.750000019
+81,Magnemite,1.899999962
+82,Magneton,0.599999988
+83,Farfetch'd,0.450000005
+84,Doduo,1.899999962
+85,Dodrio,0.450000005
+86,Seel,1.899999962
+87,Dewgong,0.750000019
+88,Grimer,1.899999962
+89,Muk,0.750000019
+90,Shellder,1.899999962
+91,Cloyster,0.599999988
+92,Gastly,1.899999962
+93,Haunter,0.900000009
+94,Gengar,0.450000005
+95,Onix,0.450000005
+96,Drowzee,1.899999962
+97,Hypno,0.750000019
+98,Krabby,2.250000225
+99,Kingler,0.599999988
+100,Voltorb,1.899999962
+101,Electrode,0.599999988
+102,Exeggcute,0.900000009
+103,Exeggutor,0.450000005
+104,Cubone,1.899999962
+105,Marowak,0.750000019
+106,Hitmonlee,0.450000005
+107,Hitmonchan,0.450000005
+108,Lickitung,0.450000005
+109,Koffing,1.899999962
+110,Weezing,0.599999988
+111,Rhyhorn,1.200000048
+112,Rhydon,0.599999988
+113,Chansey,0.300000003
+114,Tangela,0.450000005
+115,Kangaskhan,0.450000005
+116,Horsea,2.250000225
+117,Seadra,0.750000019
+118,Goldeen,2.250000225
+119,Seaking,0.599999988
+120,Staryu,2.250000225
+121,Starmie,0.599999988
+122,Mr. Mime,0.450000005
+123,Scyther,0.450000005
+124,Jynx,0.450000005
+125,Electabuzz,0.450000005
+126,Magmar,0.450000005
+127,Pinsir,0.450000005
+128,Tauros,0.450000005
+129,Magikarp,2.549999758
+130,Gyarados,0.450000005
+131,Lapras,0.450000005
+132,Ditto,0.349999995
+133,Eevee,0.450000005
+134,Vaporeon,0.450000005
+135,Jolteon,0.450000005
+136,Flareon,0.450000005
+137,Porygon,0.450000005
+138,Omanyte,0.450000005
+139,Omastar,0.450000005
+140,Kabuto,0.450000005
+141,Kabutops,0.450000005
+142,Aerodactyl,0.450000005
+143,Snorlax,0.25
+144,Articuno,0.03
+145,Zapdos,0.03
+146,Moltres,0.03
+147,Dratini,0.450000005
+148,Dragonair,0.450000005
+149,Dragonite,0.450000005
+150,Mewtwo,0.03
+151,Mew,0.450000005
+152,Chikorita,0.450000005
+153,Bayleef,0.450000005
+154,Meganium,0.450000005
+155,Cyndaquil,0.450000005
+156,Quilava,0.450000005
+157,Typhlosion,0.450000005
+158,Totodile,0.450000005
+159,Croconaw,0.450000005
+160,Feraligatr,0.450000005
+161,Sentret,2.549999758
+162,Furret,0.900000009
+163,Hoothoot,2.549999758
+164,Noctowl,0.900000009
+165,Ledyba,2.549999758
+166,Ledian,0.900000009
+167,Spinarak,2.549999758
+168,Ariados,0.900000009
+169,Crobat,0.900000009
+170,Chinchou,1.899999962
+171,Lanturn,0.750000019
+172,Pichu,1.899999962
+173,Cleffa,1.499999925
+174,Igglybuff,1.699999983
+175,Togepi,1.899999962
+176,Togetic,0.750000019
+177,Natu,1.899999962
+178,Xatu,0.750000019
+179,Mareep,2.350000082
+180,Flaaffy,1.200000048
+181,Ampharos,0.450000005
+182,Bellossom,0.450000005
+183,Marill,1.899999962
+184,Azumarill,0.750000019
+185,Sudowoodo,0.650000016
+186,Politoed,0.450000005
+187,Hoppip,2.549999758
+188,Skiploom,1.200000048
+189,Jumpluff,0.450000005
+190,Aipom,0.450000005
+191,Sunkern,2.350000082
+192,Sunflora,1.200000048
+193,Yanma,0.750000019
+194,Wooper,2.549999758
+195,Quagsire,0.900000009
+196,Espeon,0.450000005
+197,Umbreon,0.450000005
+198,Murkrow,0.300000003
+199,Slowking,0.700000014
+200,Misdreavus,0.450000005
+201,Unown,2.250000225
+202,Wobbuffet,0.450000005
+203,Girafarig,0.599999988
+204,Pineco,1.899999962
+205,Forretress,0.750000019
+206,Dunsparce,1.899999962
+207,Gligar,0.599999988
+208,Steelix,0.25
+209,Snubbull,1.899999962
+210,Granbull,0.750000019
+211,Qwilfish,0.450000005
+212,Scizor,0.25
+213,Shuckle,1.899999962
+214,Heracross,0.450000005
+215,Sneasel,0.599999988
+216,Teddiursa,1.200000048
+217,Ursaring,0.599999988
+218,Slugma,1.899999962
+219,Magcargo,0.750000019
+220,Swinub,2.250000225
+221,Piloswine,0.750000019
+222,Corsola,0.599999988
+223,Remoraid,1.899999962
+224,Octillery,0.750000019
+225,Delibird,0.450000005
+226,Mantine,0.25
+227,Skarmory,0.25
+228,Houndour,1.200000048
+229,Houndoom,0.450000005
+230,Kingdra,0.450000005
+231,Phanpy,1.200000048
+232,Donphan,0.599999988
+233,Porygon2,0.450000005
+234,Stantler,0.450000005
+235,Smeargle,0.450000005
+236,Tyrogue,0.750000019
+237,Hitmontop,0.450000005
+238,Smoochum,0.450000005
+239,Elekid,0.450000005
+240,Magby,0.450000005
+241,Miltank,0.450000005
+242,Blissey,0.300000003
+243,Raikou,0.03
+244,Entei,0.03
+245,Suicune,0.03
+246,Larvitar,0.450000005
+247,Pupitar,0.450000005
+248,Tyranitar,0.450000005
+249,Lugia,0.03
+250,Ho-Oh,0.03
+251,Celebi,0.450000005
+252,Treecko,0.450000005
+253,Grovyle,0.450000005
+254,Sceptile,0.450000005
+255,Torchic,0.450000005
+256,Combusken,0.450000005
+257,Blaziken,0.450000005
+258,Mudkip,0.450000005
+259,Marshtomp,0.450000005
+260,Swampert,0.450000005
+261,Poochyena,2.549999758
+262,Mightyena,1.269999959
+263,Zigzagoon,2.549999758
+264,Linoone,0.900000009
+265,Wurmple,2.549999758
+266,Silcoon,1.200000048
+267,Beautifly,0.450000005
+268,Cascoon,1.200000048
+269,Dustox,0.450000005
+270,Lotad,2.549999758
+271,Lombre,1.200000048
+272,Ludicolo,0.450000005
+273,Seedot,2.549999758
+274,Nuzleaf,1.200000048
+275,Shiftry,0.450000005
+276,Taillow,2
+277,Swellow,0.450000005
+278,Wingull,1.899999962
+279,Pelipper,0.450000005
+280,Ralts,2.350000082
+281,Kirlia,1.200000048
+282,Gardevoir,0.450000005
+283,Surskit,2
+284,Masquerain,0.750000019
+285,Shroomish,2.549999758
+286,Breloom,0.900000009
+287,Slakoth,2.549999758
+288,Vigoroth,1.200000048
+289,Slaking,0.450000005
+290,Nincada,2.549999758
+291,Ninjask,1.200000048
+292,Shedinja,0.450000005
+293,Whismur,1.899999962
+294,Loudred,1.200000048
+295,Exploud,0.450000005
+296,Makuhita,1.799999856
+297,Hariyama,2
+298,Azurill,1.499999925
+299,Nosepass,2.549999758
