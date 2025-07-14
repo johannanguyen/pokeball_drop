@@ -3,13 +3,6 @@
   - [x] [https://www.kaggle.com/datasets/rounakbanik/pokemon](https://www.kaggle.com/datasets/rounakbanik/pokemon)
   - [x] Clean up data, remove unwanted values
 
-## 🧰 Deck Management (Max 40 Pokémon)
-- [ ] Create maintainable deck logic (max 40 Pokémon)
-  - [ ] Write deck (dictionary) to CSV
-  - [ ] Add functionality to reset deck to 0 (throw error if already empty)
-  - [ ] Add functionality to remove 1 Pokémon at a time
-  - [ ] Add functionality to add to deck each time (up to 40)
-
 ## 🎲 Random Selection
 - [x] Select random Pokémon from CSV  
   - [x] Use weighted probabilities
@@ -19,7 +12,10 @@
   - [ ] [https://pokeapi.co/](https://pokeapi.co/)
 
 ## 🎮 Visual & UI
-- [ ] Draw a gacha claw machine (retro arcade style)
-- [ ] Draw a Pokémon card template
-- [ ] Make a button pressable (e.g., using Gradio or ipywidgets)
-- [ ] Fill Pokémon information on the card template dynamically
+- [ ] Game Goal: Drop pokeball in smaller holes to get rarer pokemons
+    - [ ] Draw background
+    - [ ] Draw a pokeball
+    - [ ] Draw different size holes
+
+## Game
+- [ ] Use pygame to create game
