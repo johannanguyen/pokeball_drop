@@ -18,7 +18,7 @@ small_font = pygame.font.SysFont(None, 40)
 clock = pygame.time.Clock()
 
 # === Load Images ===
-background_image = pygame.image.load("./assets/background.png").convert()
+background_image = pygame.image.load("./assets/background.png").convert_alpha()
 background_image = pygame.transform.scale(background_image, (WIDTH, HEIGHT))
 
 pokeball_img = pygame.image.load("./assets/pokeball.png").convert_alpha()
@@ -69,16 +69,19 @@ class Ditch:
         self.y = y
         self.image = image
         self.rect = pygame.Rect(x, y, ditch_width, ditch_height)
-        margin = ditch_width * 0.25  # middle 50%
+
+        # Widened perfect zone: middle 60%
+        margin = ditch_width * 0.20  # 20% margin each side
+        zone_width = ditch_width * 0.60
         self.perfect_zone = pygame.Rect(
-            x + margin, y, ditch_width * 0.5, ditch_height
+            x + margin, y, zone_width, ditch_height
         )
 
     def draw(self, surface, debug=False):
         surface.blit(self.image, (self.x, self.y))
         if debug:
             overlay = pygame.Surface((self.perfect_zone.width, self.perfect_zone.height), pygame.SRCALPHA)
-            overlay.fill((0, 255, 0, 100))  # green translucent
+            overlay.fill((0, 255, 0, 100))  # translucent green
             surface.blit(overlay, (self.perfect_zone.x, self.perfect_zone.y))
 
     def is_perfect_landing(self, pokeball_rect):
@@ -124,6 +127,13 @@ while running:
                 won = False
                 reward_pokemon = None
                 reward_image = None
+            if event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE:
+                pokeball = Pokeball(pokeball_img)
+                game_over = False
+                won = False
+                reward_pokemon = None
+                reward_image = None
+
         else:
             if event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE:
                 pokeball.drop()
@@ -135,10 +145,8 @@ while running:
             for ditch in ditches:
                 if ditch.is_perfect_landing(pokeball.get_rect()):
                     won = True
-                    # Get pokemon info (name, sprite URL)
                     reward_pokemon = pokemon_picker(df)
 
-                    # Download and load sprite image
                     if reward_pokemon and reward_pokemon[1]:
                         try:
                             response = requests.get(reward_pokemon[1])
@@ -150,7 +158,6 @@ while running:
                             reward_image = None
                     else:
                         reward_image = None
-
                     break
             game_over = True
 
