@@ -1,41 +1,41 @@
 import pandas as pd
-import os
-import random
 import requests
 
 POKEMON_TRIMMED = "./assets/pokemon_trimmed.csv"
-DECK = "./assets/deck.csv"
 POKEMON_API = "https://pokeapi.co/api/v2/pokemon/"
 
 
 def read_dataset():
     """
-        Save pokemon data from dataset into a dictionary.
+    Load Pokémon data from the CSV file.
+    Assumes 'rarity' is used as a weight for random sampling.
     """
     df = pd.read_csv(POKEMON_TRIMMED)
     df['rarity'] = pd.to_numeric(df['rarity'], errors='coerce')
-
     return df
 
 
 def pokemon_picker(df):
     """
-        Use weighted probability based on rarity to pick pokemon
+    Randomly pick a Pokémon from the dataset using rarity as weights.
+    Returns the Pokémon's name and sprite URL.
     """
     pulled = df.sample(n=1, weights='rarity')
     number = pulled["pokedex_number"].values[0]
     name = pulled['name'].values[0]
-    type1 = pulled['type1'].values[0]
-    print(pulled)
 
     response = requests.get(f"{POKEMON_API}/{number}")
-    # Check if request was successful
     if response.status_code == 200:
-        data = response.json()["sprites"]["front_default"]
-        print(data)
-
+        sprite_url = response.json()["sprites"]["front_default"]
+        return name.title(), sprite_url
     else:
-        print("Failed to fetch data", response.status_code)
+        print(f"Failed to fetch sprite for {name}. Status code: {response.status_code}")
+        return name.title(), None
 
-df = read_dataset()
-pokemon_picker(df)
+
+# Test functionality when running this file directly
+if __name__ == "__main__":
+    df = read_dataset()
+    name, sprite = pokemon_picker(df)
+    print(f"You pulled {name}!")
+    print(f"Sprite URL: {sprite}")
