@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 
-POKEMON_TRIMMED = "./assets/pokemon_trimmed.csv"
+POKEMON_DATA = "./assets/pokemon_data.csv"
 POKEMON_API = "https://pokeapi.co/api/v2/pokemon/"
 
 
@@ -10,7 +10,7 @@ def read_dataset():
     Load Pokémon data from the CSV file.
     Assumes 'rarity' is used as a weight for random sampling.
     """
-    df = pd.read_csv(POKEMON_TRIMMED)
+    df = pd.read_csv(POKEMON_DATA)
     df['rarity'] = pd.to_numeric(df['rarity'], errors='coerce')
     return df
 
@@ -29,7 +29,7 @@ def pokemon_picker(df):
         sprite_url = response.json()["sprites"]["front_default"]
         return name.title(), sprite_url
     else:
-        print(f"Failed to fetch sprite for {name}. Status code: {response.status_code}")
+        print(f"Could not fetch sprite - {response.status_code}")
         return name.title(), None
 
 
@@ -37,5 +37,3 @@ def pokemon_picker(df):
 if __name__ == "__main__":
     df = read_dataset()
     name, sprite = pokemon_picker(df)
-    print(f"You pulled {name}!")
-    print(f"Sprite URL: {sprite}")

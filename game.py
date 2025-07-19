@@ -2,10 +2,9 @@ import pygame
 import sys
 import requests
 from io import BytesIO
-from main import read_dataset, pokemon_picker
+from backend import read_dataset, pokemon_picker
 from objects import Pokeball, Ditch
 
-# === Constants ===
 WIDTH = 800
 HEIGHT = 550
 FPS = 60
