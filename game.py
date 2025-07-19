@@ -25,7 +25,7 @@ SPRITE_SIZE = (250, 250)
 # Initialize Pygame, set up the game window and title, define fonts, and create a clock for timing.
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Drop the Pokeball")
+pygame.display.set_caption("Pokeball Drop")
 font = pygame.font.SysFont(None, BIG_FONT)
 small_font = pygame.font.SysFont(None, SMALL_FONT)
 clock = pygame.time.Clock()
