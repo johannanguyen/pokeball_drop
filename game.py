@@ -104,7 +104,7 @@ while running:
             game_over = True
 
     for ditch in ditches:
-        ditch.draw(screen, debug=True)
+        ditch.draw(screen)
 
     pokeball.draw(screen)
 
