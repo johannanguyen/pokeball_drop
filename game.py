@@ -74,6 +74,7 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
+
         # If game over, reset the game state and pokeball when retry button is clicked or spacebar is pressed
         if game_over:
             if event.type == pygame.MOUSEBUTTONDOWN and retry_button.collidepoint(event.pos):
@@ -89,10 +90,12 @@ while running:
                 reward_pokemon = None
                 reward_image = None
 
+
         # If not game over, spacebar will drop pokeball
         else:
             if event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE:
                 pokeball.drop()
+
 
     # Update pokeball and check for perfect ditch landing to win and pick a reward
     if not game_over:
@@ -103,6 +106,7 @@ while running:
                 if ditch.is_perfect_landing(pokeball.get_rect()):
                     won = True
                     reward_pokemon = pokemon_picker(df)
+
 
                     # Try loading and scaling the reward Pokemon’s image from its URL
                     if reward_pokemon and reward_pokemon[1]:
@@ -119,11 +123,12 @@ while running:
                     break
             game_over = True
 
+
     # Draw all ditches and pokeball
     for ditch in ditches:
         ditch.draw(screen)
-
     pokeball.draw(screen)
+
 
     # Semi-transparent black overlay over the screen.
     if game_over:
@@ -131,6 +136,7 @@ while running:
         overlay.set_alpha(180)
         overlay.fill(BLACK)
         screen.blit(overlay, (0, 0))
+
 
         #  Show the reward Pokemon’s name and image centered.
         if won:
@@ -141,10 +147,12 @@ while running:
             if reward_image:
                 screen.blit(reward_image, (WIDTH // 2 - reward_image.get_width() // 2, HEIGHT // 2 - 100))
         
+
         # Print You Lose
         else:
             lose_text = font.render("You Lose!", True, RED)
             screen.blit(lose_text, (WIDTH // 2 - lose_text.get_width() // 2, HEIGHT // 2 - 60))
+
 
         # Retry button
         pygame.draw.rect(screen, GRAY, retry_button, border_radius=10)
@@ -152,8 +160,10 @@ while running:
         screen.blit(retry_text, (retry_button.centerx - retry_text.get_width() // 2,
                                  retry_button.centery - retry_text.get_height() // 2))
 
+
     pygame.display.flip()
     clock.tick(FPS)
+
 
 pygame.quit()
 sys.exit()
