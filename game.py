@@ -2,8 +2,8 @@ import pygame
 import sys
 import requests
 from io import BytesIO
-from backend import read_dataset, pokemon_picker
-from objects import Pokeball, Ditch
+from scripts.backend import read_dataset, pokemon_picker
+from scripts.objects import Pokeball, Ditch
 
 WIDTH = 800
 HEIGHT = 550
