@@ -2,8 +2,7 @@ import pygame
 
 GAME_WIDTH = 800
 GAME_HEIGHT = 550
-DITCH_WIDTH = 100
-DITCH_HEIGHT = 80
+
 
 class Pokeball:
     def __init__(self, image):
@@ -62,11 +61,13 @@ class Ditch:
         self.x = x
         self.y = y
         self.image = image
-        self.rect = pygame.Rect(x, y, DITCH_WIDTH, DITCH_HEIGHT)
+        self.ditch_width = 100
+        self.ditch_height = 80
+        self.rect = pygame.Rect(x, y, self.ditch_width, self.ditch_height)
 
-        margin = DITCH_WIDTH * 0.20
-        zone_width = DITCH_WIDTH * 0.60
-        self.perfect_zone = pygame.Rect(x + margin, y, zone_width, DITCH_HEIGHT)
+        margin = self.ditch_width * 0.20
+        zone_width = self.ditch_width * 0.60
+        self.perfect_zone = pygame.Rect(x + margin, y, zone_width, self.ditch_height)
 
     def draw(self, surface, debug=False):
         """
