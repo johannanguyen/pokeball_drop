@@ -69,7 +69,7 @@ class Ditch:
         zone_width = self.ditch_width * 0.60
         self.perfect_zone = pygame.Rect(x + margin, y, zone_width, self.ditch_height)
 
-    def draw(self, surface, debug=False):
+    def draw(self, surface):
         """
         Draw the ditch
         """
