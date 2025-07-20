@@ -33,7 +33,6 @@ def pokemon_picker(df):
         return name.title(), None
 
 
-# Test functionality when running this file directly
 if __name__ == "__main__":
     df = read_dataset()
     name, sprite = pokemon_picker(df)
