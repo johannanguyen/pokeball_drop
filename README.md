@@ -12,19 +12,19 @@ You can either run the Python source code or use the pre-built executable:
 2. **Install Required Packages** 
    Open your terminal or command prompt and run:
    
-   pip install pandas requests pygame
+   `pip install pandas requests pygame`
 
 3. **Clone This Repository** 
    
-   git clone https://github.com/johannanguyen/pokeball_drop
+   `git clone https://github.com/johannanguyen/pokeball_drop`
 
 4. **Navigate to the Project Directory** 
    
-   cd pokeball_drop
+   `cd pokeball_drop`
 
 5. **Run the Game** 
    
-   python game.py
+   `python game.py`
 
 ### Option 2: Use the Executable 💫
 1. Download and unzip the `.exe` file 
